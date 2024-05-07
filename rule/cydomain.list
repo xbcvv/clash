@@ -1,0 +1,190 @@
+# 自用常用直连网站
+DOMAIN-SUFFIX,imzcc.com
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,myssl.com
+DOMAIN-SUFFIX,giffgaff.com #英国giffgaff
+DOMAIN-SUFFIX,2345.com
+DOMAIN-SUFFIX,spfnas.cc #时pf
+DOMAIN-SUFFIX,im.those.cc
+DOMAIN-SUFFIX,boxmoe.com
+DOMAIN,v1.dogapi.yachts
+DOMAIN-SUFFIX,88.com #完美邮箱
+DOMAIN-SUFFIX,nangongmall.com
+DOMAIN-SUFFIX,pc141.com
+DOMAIN-SUFFIX,zdmimg.com
+DOMAIN-SUFFIX,smzdm.soboten.com
+DOMAIN-SUFFIX,nuomiphp.com
+DOMAIN-SUFFIX,szfw.org
+DOMAIN-SUFFIX,9377s.com
+DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,4366.com
+DOMAIN-SUFFIX,4366.adpfm513.com
+DOMAIN-SUFFIX,zzbank.cc
+DOMAIN-SUFFIX,hikmall.com
+DOMAIN-SUFFIX,sixyin.com
+DOMAIN-SUFFIX,qiyukf.com
+DOMAIN-SUFFIX,qichacha.com
+DOMAIN-SUFFIX,gebi1.com #隔壁网
+DOMAIN-SUFFIX,chinapyg.com #飘云阁
+DOMAIN-SUFFIX,imnks.com #我不是矿神
+DOMAIN-SUFFIX,cnlang.org #国语视界
+DOMAIN-SUFFIX,kxdao.net #科学刀
+DOMAIN-SUFFIX,sysceo.com
+DOMAIN-SUFFIX,yckceo.com
+DOMAIN-SUFFIX,iwin10.net
+DOMAIN-SUFFIX,newxitong.com
+DOMAIN-SUFFIX,pcbeta.com
+DOMAIN-SUFFIX,xyboot.com
+DOMAIN-SUFFIX,rufus.ie
+DOMAIN-SUFFIX,ventoy.net
+DOMAIN-SUFFIX,wuyou.net
+DOMAIN-SUFFIX,itsk.com
+DOMAIN-SUFFIX,spk.520810.xyz
+DOMAIN-SUFFIX,nasyun.com
+DOMAIN-SUFFIX,ipt.cm
+DOMAIN-SUFFIX,ikuai8.com
+DOMAIN-SUFFIX,gxnas.com
+DOMAIN-SUFFIX,potplayer.org
+DOMAIN-SUFFIX,wuhenge.com
+DOMAIN-SUFFIX,iosyyds.net
+DOMAIN-SUFFIX,yiibai.com
+DOMAIN-SUFFIX,excelhome.net
+DOMAIN-SUFFIX,imgurl.org
+DOMAIN-SUFFIX,adzhp.xyz
+DOMAIN-SUFFIX,likebookmark.com
+DOMAIN-SUFFIX,duososo.com
+DOMAIN-SUFFIX,qssily.com
+DOMAIN-SUFFIX,btfan.com
+DOMAIN-SUFFIX,24mail.chacuo.net
+DOMAIN-SUFFIX,guerrillamail.com
+DOMAIN-SUFFIX,temp-mail.org
+DOMAIN-SUFFIX,meiguodizhi.com
+DOMAIN-SUFFIX,mohmal.com
+DOMAIN-SUFFIX,dataoke.com
+DOMAIN-SUFFIX,api.minimax.chat
+DOMAIN-SUFFIX,dahuatech.com
+DOMAIN-SUFFIX,cli.im  
+DOMAIN-SUFFIX,hikvision.com
+DOMAIN-SUFFIX,ezviz.com
+DOMAIN-SUFFIX,eztv.re
+DOMAIN-SUFFIX,qcc.com
+DOMAIN-SUFFIX,iyd.wang
+DOMAIN-SUFFIX,yuque.com
+DOMAIN-SUFFIX,hybase.com
+DOMAIN-SUFFIX,seewo.com
+DOMAIN-SUFFIX,h3c.com
+DOMAIN-SUFFIX,raychase.net
+DOMAIN-SUFFIX,scomper.me
+DOMAIN-SUFFIX,shouqianba.com
+DOMAIN-SUFFIX,sm.ms
+DOMAIN-SUFFIX,s-reader.com
+DOMAIN-SUFFIX,subhd.tv
+DOMAIN-SUFFIX,takungpao.com
+DOMAIN-SUFFIX,tophub.today
+DOMAIN-SUFFIX,uning.com
+DOMAIN-SUFFIX,yizhibo.com
+DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,qweather.com
+DOMAIN-SUFFIX,qyer.com
+DOMAIN-SUFFIX,qyerstatic.com
+DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,agora.io
+DOMAIN-SUFFIX,aicoinstorge.com
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,b612.net
+DOMAIN-SUFFIX,bdatu.com
+DOMAIN-SUFFIX,beitaichufang.com
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,bstatic.com
+DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,chunyu.mobi
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,dji.net
+DOMAIN-SUFFIX,docschina.org
+DOMAIN-SUFFIX,eudic.net
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,gandi.net
+DOMAIN-SUFFIX,gcores.com
+DOMAIN-SUFFIX,getpricetag.com
+DOMAIN-SUFFIX,heweather.net
+DOMAIN-SUFFIX,hostbuf.com
+DOMAIN-SUFFIX,ibm.com
+DOMAIN-SUFFIX,infinitynewtab.com
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,jidian.im
+DOMAIN-SUFFIX,kaiyanapp.com
+DOMAIN-SUFFIX,kaspersky-labs.com
+DOMAIN-SUFFIX,keepcdn.com
+DOMAIN-SUFFIX,kkmh.com
+DOMAIN-SUFFIX,lanzous.com
+DOMAIN-SUFFIX,luojilab.com
+DOMAIN-SUFFIX,mls-cdn.com
+DOMAIN-SUFFIX,myzaker.com
+DOMAIN-SUFFIX,nim-lang-cn.org
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,qweather.com
+DOMAIN-SUFFIX,qyer.com
+DOMAIN-SUFFIX,qyerstatic.com
+DOMAIN-SUFFIX,360in.com
+DOMAIN-SUFFIX,51ym.me
+DOMAIN-SUFFIX,99.com
+DOMAIN-SUFFIX,qlrc.com
+DOMAIN-SUFFIX,zhaopin.com
+DOMAIN-SUFFIX,zaozhuangbank.com
+DOMAIN-SUFFIX,jn-bank.com
+DOMAIN-SUFFIX,whccb.com
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,zcrcw.com
+DOMAIN-SUFFIX,down.365ncg.com
+DOMAIN-SUFFIX,qianfan.app
+DOMAIN-SUFFIX,alipansou.com #猫狸盘搜
+DOMAIN-SUFFIX,niceso.net #奈斯搜索
+DOMAIN-SUFFIX,xuebapan.com #学霸盘
+DOMAIN-SUFFIX,dalipan.com #大力盘
+DOMAIN-SUFFIX,dalipan.xyz #大力盘
+DOMAIN-SUFFIX,feizhupan.com #大力盘
+DOMAIN-SUFFIX,hope140.cc
+DOMAIN-SUFFIX,api.hope140.cc
+DOMAIN-SUFFIX,api.hope140.ga
+DOMAIN-KEYWORD,edu.cn
+DOMAIN-SUFFIX,7cc.fun
+DOMAIN-SUFFIX,sliu.x10.mx
+DOMAIN-SUFFIX,qin.x10.mx
+DOMAIN-SUFFIX,btun.x10.mx
+DOMAIN-SUFFIX,huoo.cloudns.org
+DOMAIN-SUFFIX,even.cloudns.biz
+DOMAIN-SUFFIX,aicc.eu.org
+DOMAIN-SUFFIX,wfvv.eu.org
+  #影视娱乐
+DOMAIN-SUFFIX,99meiju.cn #99美剧
+DOMAIN-SUFFIX,netflixgc.com #奈菲工厂
+DOMAIN-SUFFIX,btbtt34.com #BT之家
+DOMAIN-SUFFIX,btbtt32.com #BT之家
+DOMAIN-SUFFIX,btbtt28.com #BT之家
+DOMAIN-SUFFIX,btbtt27.com #BT之家
+DOMAIN-SUFFIX,btbtt13.com #BT之家
+DOMAIN-SUFFIX,1lou.me #BT之家
+DOMAIN-SUFFIX,ysscj.com
+DOMAIN-SUFFIX,gaoqing.la
+DOMAIN-SUFFIX,pianyuan.org
+DOMAIN-SUFFIX,dongmanhuayuan.com
+DOMAIN-SUFFIX,comicat.org
+DOMAIN-SUFFIX,4ksj.com
+DOMAIN-SUFFIX,4ksg.com
+DOMAIN-SUFFIX,bbqddq.com #蓝光电影论坛
+DOMAIN-SUFFIX,HDBTHD.com #蓝光电影论坛
+DOMAIN-SUFFIX,doutoutiao.cc #蓝光电影论坛
+DOMAIN-SUFFIX,windows.baidubaidu.win #蓝光电影论坛
+DOMAIN-SUFFIX,seedhub.info
+DOMAIN-SUFFIX,hoho.tv
+DOMAIN-SUFFIX,zimuku.org
+DOMAIN-SUFFIX,assrt.net #射手网（伪）
+DOMAIN-SUFFIX,opensubtitle.info
+DOMAIN-SUFFIX,hifini.com
+DOMAIN-SUFFIX,wuhenge.com
+DOMAIN-SUFFIX,legado.aoaostar.com #「阅读」APP源

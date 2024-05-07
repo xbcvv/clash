@@ -1,1 +1,2 @@
-# clash
+自用clash配置文件
+subconfig.ini是根据个人习惯自建的订阅配置文件

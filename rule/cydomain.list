@@ -2,13 +2,13 @@
 DOMAIN-SUFFIX,imzcc.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,myssl.com
-DOMAIN-SUFFIX,giffgaff.com #英国giffgaff
+DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,2345.com
-DOMAIN-SUFFIX,spfnas.cc #时pf
+DOMAIN-SUFFIX,spfnas.cc
 DOMAIN-SUFFIX,im.those.cc
 DOMAIN-SUFFIX,boxmoe.com
 DOMAIN,v1.dogapi.yachts
-DOMAIN-SUFFIX,88.com #完美邮箱
+DOMAIN-SUFFIX,88.com
 DOMAIN-SUFFIX,nangongmall.com
 DOMAIN-SUFFIX,pc141.com
 DOMAIN-SUFFIX,zdmimg.com
@@ -24,11 +24,11 @@ DOMAIN-SUFFIX,hikmall.com
 DOMAIN-SUFFIX,sixyin.com
 DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,qichacha.com
-DOMAIN-SUFFIX,gebi1.com #隔壁网
-DOMAIN-SUFFIX,chinapyg.com #飘云阁
-DOMAIN-SUFFIX,imnks.com #我不是矿神
-DOMAIN-SUFFIX,cnlang.org #国语视界
-DOMAIN-SUFFIX,kxdao.net #科学刀
+DOMAIN-SUFFIX,gebi1.com
+DOMAIN-SUFFIX,chinapyg.com
+DOMAIN-SUFFIX,imnks.com
+DOMAIN-SUFFIX,cnlang.org
+DOMAIN-SUFFIX,kxdao.net
 DOMAIN-SUFFIX,sysceo.com
 DOMAIN-SUFFIX,yckceo.com
 DOMAIN-SUFFIX,iwin10.net
@@ -142,12 +142,12 @@ DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,zcrcw.com
 DOMAIN-SUFFIX,down.365ncg.com
 DOMAIN-SUFFIX,qianfan.app
-DOMAIN-SUFFIX,alipansou.com #猫狸盘搜
-DOMAIN-SUFFIX,niceso.net #奈斯搜索
-DOMAIN-SUFFIX,xuebapan.com #学霸盘
-DOMAIN-SUFFIX,dalipan.com #大力盘
-DOMAIN-SUFFIX,dalipan.xyz #大力盘
-DOMAIN-SUFFIX,feizhupan.com #大力盘
+DOMAIN-SUFFIX,alipansou.com
+DOMAIN-SUFFIX,niceso.net
+DOMAIN-SUFFIX,xuebapan.com
+DOMAIN-SUFFIX,dalipan.com
+DOMAIN-SUFFIX,dalipan.xyz
+DOMAIN-SUFFIX,feizhupan.com
 DOMAIN-SUFFIX,hope140.cc
 DOMAIN-SUFFIX,api.hope140.cc
 DOMAIN-SUFFIX,api.hope140.ga
@@ -161,14 +161,14 @@ DOMAIN-SUFFIX,even.cloudns.biz
 DOMAIN-SUFFIX,aicc.eu.org
 DOMAIN-SUFFIX,wfvv.eu.org
   #影视娱乐
-DOMAIN-SUFFIX,99meiju.cn #99美剧
-DOMAIN-SUFFIX,netflixgc.com #奈菲工厂
-DOMAIN-SUFFIX,btbtt34.com #BT之家
-DOMAIN-SUFFIX,btbtt32.com #BT之家
-DOMAIN-SUFFIX,btbtt28.com #BT之家
-DOMAIN-SUFFIX,btbtt27.com #BT之家
-DOMAIN-SUFFIX,btbtt13.com #BT之家
-DOMAIN-SUFFIX,1lou.me #BT之家
+DOMAIN-SUFFIX,99meiju.cn
+DOMAIN-SUFFIX,netflixgc.com
+DOMAIN-SUFFIX,btbtt34.com
+DOMAIN-SUFFIX,btbtt32.com
+DOMAIN-SUFFIX,btbtt28.com
+DOMAIN-SUFFIX,btbtt27.com
+DOMAIN-SUFFIX,btbtt13.com
+DOMAIN-SUFFIX,1lou.me
 DOMAIN-SUFFIX,ysscj.com
 DOMAIN-SUFFIX,gaoqing.la
 DOMAIN-SUFFIX,pianyuan.org
@@ -176,15 +176,15 @@ DOMAIN-SUFFIX,dongmanhuayuan.com
 DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,4ksj.com
 DOMAIN-SUFFIX,4ksg.com
-DOMAIN-SUFFIX,bbqddq.com #蓝光电影论坛
-DOMAIN-SUFFIX,HDBTHD.com #蓝光电影论坛
-DOMAIN-SUFFIX,doutoutiao.cc #蓝光电影论坛
-DOMAIN-SUFFIX,windows.baidubaidu.win #蓝光电影论坛
+DOMAIN-SUFFIX,bbqddq.com
+DOMAIN-SUFFIX,HDBTHD.com
+DOMAIN-SUFFIX,doutoutiao.cc
+DOMAIN-SUFFIX,windows.baidubaidu.win
 DOMAIN-SUFFIX,seedhub.info
 DOMAIN-SUFFIX,hoho.tv
 DOMAIN-SUFFIX,zimuku.org
-DOMAIN-SUFFIX,assrt.net #射手网（伪）
+DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,opensubtitle.info
 DOMAIN-SUFFIX,hifini.com
 DOMAIN-SUFFIX,wuhenge.com
-DOMAIN-SUFFIX,legado.aoaostar.com #「阅读」APP源
+DOMAIN-SUFFIX,legado.aoaostar.com

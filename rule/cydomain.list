@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,myssl.com
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,2345.com
-DOMAIN-SUFFIX,spfnas.cc
 DOMAIN-SUFFIX,im.those.cc
 DOMAIN-SUFFIX,boxmoe.com
 DOMAIN,v1.dogapi.yachts
@@ -152,14 +151,6 @@ DOMAIN-SUFFIX,hope140.cc
 DOMAIN-SUFFIX,api.hope140.cc
 DOMAIN-SUFFIX,api.hope140.ga
 DOMAIN-KEYWORD,edu.cn
-DOMAIN-SUFFIX,7cc.fun
-DOMAIN-SUFFIX,sliu.x10.mx
-DOMAIN-SUFFIX,qin.x10.mx
-DOMAIN-SUFFIX,btun.x10.mx
-DOMAIN-SUFFIX,huoo.cloudns.org
-DOMAIN-SUFFIX,even.cloudns.biz
-DOMAIN-SUFFIX,aicc.eu.org
-DOMAIN-SUFFIX,wfvv.eu.org
   #影视娱乐
 DOMAIN-SUFFIX,99meiju.cn
 DOMAIN-SUFFIX,netflixgc.com

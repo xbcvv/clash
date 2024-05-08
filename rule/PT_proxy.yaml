@@ -1,0 +1,5 @@
+payload:
+#需要代理的PT站
+ - DOMAIN-SUFFIX,fsm.name
+ - DOMAIN-SUFFIX,avistaz.to
+ - DOMAIN-SUFFIX,torrentleech.org

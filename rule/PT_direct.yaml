@@ -9,6 +9,8 @@ payload:
  - DOMAIN-SUFFIX,redacted.ch
  - DOMAIN-SUFFIX,kelu.one
  - DOMAIN-SUFFIX,ianon.app
+ #CD File
+ - DOMAIN-SUFFIX,pt.cdfile.org
  #ToSky
  - DOMAIN-SUFFIX,tosky.club
  #YemaPT

@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,kamept.com
 DOMAIN-SUFFIX,kufei.org
  # 莫妮卡
 DOMAIN-SUFFIX,monikadesign.uk
+DOMAIN-SUFFIX,anime-no-index.com
  # 老师
 DOMAIN-SUFFIX,nicept.net
  # OKPT
@@ -149,7 +150,7 @@ DOMAIN-SUFFIX,zmpt.cc
  # HDchina 瓷器
  #- DOMAIN-SUFFIX,hdchina.org
   # 杜比
- #- DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hddolby.com
   # 家园
 DOMAIN-SUFFIX,hdhome.org
  # 天空
@@ -249,7 +250,6 @@ DOMAIN-SUFFIX,ipt.octopus.town
  # TorrentLeech
 DOMAIN-SUFFIX,torrentleech.cc
 DOMAIN-SUFFIX,torrentleech.me
-DOMAIN-SUFFIX,tleechreload.org
 DOMAIN-SUFFIX,tlgetin.cc
  # 图床
 DOMAIN-SUFFIX,freeimage.host

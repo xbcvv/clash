@@ -251,7 +251,6 @@ payload:
  # TorrentLeech
  - DOMAIN-SUFFIX,torrentleech.cc
  - DOMAIN-SUFFIX,torrentleech.me
- - DOMAIN-SUFFIX,tleechreload.org
  - DOMAIN-SUFFIX,tlgetin.cc
  # 图床
  - DOMAIN-SUFFIX,freeimage.host

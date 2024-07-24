@@ -3,3 +3,5 @@ payload:
  - DOMAIN-SUFFIX,fsm.name
  - DOMAIN-SUFFIX,avistaz.to
  - DOMAIN-SUFFIX,torrentleech.org
+ #YemaPT
+ - DOMAIN-SUFFIX,yemapt.org

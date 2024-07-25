@@ -10,13 +10,13 @@ payload:
  - DOMAIN-SUFFIX,kelu.one
  - DOMAIN-SUFFIX,ianon.app
  - DOMAIN-SUFFIX,ptfans.cc
- #CD File
+ # CD File
  - DOMAIN-SUFFIX,pt.cdfile.org
- #ToSky
+ # ToSky
  - DOMAIN-SUFFIX,tosky.club
- #狗站
+ # 狗站
  - DOMAIN-SUFFIX,dogpt.cc
- #鲨鱼 
+ # 鲨鱼 
  - DOMAIN-SUFFIX,sharkpt.net
  # 駕瞑羅PT
  - DOMAIN-SUFFIX,gamerapt.link
@@ -147,11 +147,9 @@ payload:
  - DOMAIN-SUFFIX,zhuque.in
  # 织梦
  - DOMAIN-SUFFIX,zmpt.cc
- # HDchina 瓷器
- #- DOMAIN-SUFFIX,hdchina.org
-  # 杜比
+ # 杜比
  - DOMAIN-SUFFIX,hddolby.com
-  # 家园
+ # 家园
  - DOMAIN-SUFFIX,hdhome.org
  # 天空
  - DOMAIN-SUFFIX,hdsky.me
@@ -172,13 +170,13 @@ payload:
  # ECUST PT华东理工
  - DOMAIN-SUFFIX,ecustpt.eu.org
  - DOMAIN-SUFFIX,pt.ecust.pp.ua
- #CinemaZ
+ # CinemaZ
  - DOMAIN-SUFFIX,cinemaz.to
- #Anime Torrents
+ # Anime Torrents
  - DOMAIN-SUFFIX,animetorrents.me
- #HQMUSIC
+ # HQMUSIC
  - DOMAIN-SUFFIX,hqmusic.info
- #HD-Space
+ # HD-Space
  - DOMAIN-SUFFIX,hd-space.org
  # 52PT
  - DOMAIN-SUFFIX,52pt.site

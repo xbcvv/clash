@@ -147,9 +147,9 @@ payload:
  # 织梦
  - DOMAIN-SUFFIX,zmpt.cc
  # HDchina 瓷器
- #-  - DOMAIN-SUFFIX,hdchina.org
+ #- DOMAIN-SUFFIX,hdchina.org
   # 杜比
- #-  - DOMAIN-SUFFIX,hddolby.com
+ - DOMAIN-SUFFIX,hddolby.com
   # 家园
  - DOMAIN-SUFFIX,hdhome.org
  # 天空
@@ -173,8 +173,6 @@ payload:
  - DOMAIN-SUFFIX,pt.ecust.pp.ua
  #CinemaZ
  - DOMAIN-SUFFIX,cinemaz.to
- #ExoticaZ
- - DOMAIN-SUFFIX,exoticaz.to
  #Anime Torrents
  - DOMAIN-SUFFIX,animetorrents.me
  #HQMUSIC

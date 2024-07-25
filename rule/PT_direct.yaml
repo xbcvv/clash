@@ -1,5 +1,5 @@
 payload:
-#国内大部分PT站及国外小部分
+# 国内大部分PT站及国外小部分
  - DOMAIN-SUFFIX,okfun.org
  - DOMAIN-SUFFIX,kimoji.club
  - DOMAIN-SUFFIX,cinefiles.info
@@ -20,7 +20,7 @@ payload:
  - DOMAIN-SUFFIX,gamerapt.link
  # 象岛
  - DOMAIN-SUFFIX,ptvicomo.net
- #AGSV末日
+ # AGSV末日
  - DOMAIN-SUFFIX,agsvpt.com
  # TU88
  - DOMAIN-SUFFIX,tu88.men

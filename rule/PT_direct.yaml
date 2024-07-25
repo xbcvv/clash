@@ -16,8 +16,6 @@ payload:
  - DOMAIN-SUFFIX,tosky.club
  # 狗站
  - DOMAIN-SUFFIX,dogpt.cc
- # 鲨鱼 
- - DOMAIN-SUFFIX,sharkpt.net
  # 駕瞑羅PT
  - DOMAIN-SUFFIX,gamerapt.link
  # 象岛

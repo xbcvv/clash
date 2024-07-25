@@ -3,8 +3,6 @@ payload:
  - DOMAIN-SUFFIX,fsm.name
  - DOMAIN-SUFFIX,avistaz.to
  - DOMAIN-SUFFIX,torrentleech.org
- #ExoticaZ
  - DOMAIN-SUFFIX,exoticaz.to
- #YemaPT
  - DOMAIN-SUFFIX,yemapt.org
  - DOMAIN-SUFFIX,dogpt.cc

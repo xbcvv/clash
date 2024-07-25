@@ -39,6 +39,7 @@ payload:
  # 麒麟
  - DOMAIN-SUFFIX,hdkyl.in
  - DOMAIN-SUFFIX,hdkylin.top
+ - DOMAIN-SUFFIX,img.hdkylin.com
  # Free Farm 自由农场
  - DOMAIN-SUFFIX,pt.0ff.cc
  # 1PTBA 壹PT
@@ -276,3 +277,4 @@ payload:
  - DOMAIN-SUFFIX,nickyam.com
  - DOMAIN-SUFFIX,pixhost.to
  - DOMAIN-SUFFIX,z4a.net
+ - DOMAIN-SUFFIX,ptpimg.me

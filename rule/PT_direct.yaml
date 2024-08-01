@@ -248,6 +248,8 @@ payload:
  - DOMAIN-SUFFIX,torrentleech.cc
  - DOMAIN-SUFFIX,torrentleech.me
  - DOMAIN-SUFFIX,tlgetin.cc
+ # 未知
+ - DOMAIN-SUFFIX,czhch.com
  # 图床
  - DOMAIN-SUFFIX,freeimage.host
  - DOMAIN-SUFFIX,iili.io

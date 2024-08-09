@@ -78,6 +78,7 @@ payload:
  - DOMAIN-SUFFIX,hd4fans.org
  # HDArea 高清世界
  - DOMAIN-SUFFIX,hdarea.club
+ - DOMAIN-SUFFIX,hdarea.co
  # HDAtmos 阿童木
  - DOMAIN-SUFFIX,hdatmos.club
  # HDFans

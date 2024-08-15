@@ -183,3 +183,11 @@ payload:
   - DOMAIN-SUFFIX,wuhenge.com
   - DOMAIN-SUFFIX,legado.aoaostar.com
   - DOMAIN-SUFFIX,bgm.tv
+  #资源采集
+  - DOMAIN-SUFFIX,ffzyplayer.com
+  - DOMAIN-SUFFIX,ffzy888.com
+  - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-SUFFIX,nikanba.live
+  - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-SUFFIX,heimuer.tv

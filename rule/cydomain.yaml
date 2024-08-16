@@ -184,13 +184,20 @@ payload:
   - DOMAIN-SUFFIX,legado.aoaostar.com
   - DOMAIN-SUFFIX,bgm.tv
   #资源采集
+  - DOMAIN-SUFFIX,heimuer.xyz
   - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-SUFFIX,cjhwba.com
+  - DOMAIN-SUFFIX,huaweiba.live
   - DOMAIN-SUFFIX,hmrvideo.com
+  - DOMAIN-SUFFIX,hw8.lol
   - DOMAIN-SUFFIX,huawei8.live
   - DOMAIN-SUFFIX,nikanba.live
+  - DOMAIN-SUFFIX,ffzyapi.com
+  - DOMAIN-SUFFIX,ffzyplayer.com
   - DOMAIN-SUFFIX,ffzy888.com
   - DOMAIN-SUFFIX,ffzy-video.com
   - DOMAIN-SUFFIX,ffzy-online1.com
+  - DOMAIN-SUFFIX,ffzy-online2.com
   - DOMAIN-SUFFIX,ffzy-online4.com
   - DOMAIN-SUFFIX,ffzy-online5.com
   - DOMAIN-SUFFIX,ffzy-online6.com
@@ -198,5 +205,14 @@ payload:
   - DOMAIN-SUFFIX,ffzyread2.com
   - DOMAIN-SUFFIX,ffzy-play2.com
   - DOMAIN-SUFFIX,ffzy-play5.com
+  - DOMAIN-SUFFIX,ffzy-play6.com
   - DOMAIN-SUFFIX,ffzy-play7.com
-  - DOMAIN-SUFFIX,ffzy-online2.com
+  - DOMAIN-SUFFIX,jiuyuezy.com
+  - DOMAIN-SUFFIX,jiuyueapi.com
+  - DOMAIN-SUFFIX,9yuezy.com
+  - DOMAIN-SUFFIX,jiuyuezy.top
+  - DOMAIN-SUFFIX,jiuyuezy.me
+  - DOMAIN-SUFFIX, jiuyuezy.net
+  - DOMAIN-SUFFIX, jiuyueziyuan.com
+  - DOMAIN-SUFFIX,jiuyuezy.cc
+  - DOMAIN-SUFFIX,jiuyuezy.live

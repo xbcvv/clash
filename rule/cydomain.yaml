@@ -184,10 +184,19 @@ payload:
   - DOMAIN-SUFFIX,legado.aoaostar.com
   - DOMAIN-SUFFIX,bgm.tv
   #资源采集
-  - DOMAIN-SUFFIX,ffzyplayer.com
-  - DOMAIN-SUFFIX,ffzy888.com
   - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-SUFFIX,hmrvideo.com
+  - DOMAIN-SUFFIX,huawei8.live
   - DOMAIN-SUFFIX,nikanba.live
-  - DOMAIN-SUFFIX,heimuer.tv
-  - DOMAIN-SUFFIX,heimuer.tv
-  - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-SUFFIX,ffzy888.com
+  - DOMAIN-SUFFIX,ffzy-video.com
+  - DOMAIN-SUFFIX,ffzy-online1.com
+  - DOMAIN-SUFFIX,ffzy-online4.com
+  - DOMAIN-SUFFIX,ffzy-online5.com
+  - DOMAIN-SUFFIX,ffzy-online6.com
+  - DOMAIN-SUFFIX,ffzyread1.com
+  - DOMAIN-SUFFIX,ffzyread2.com
+  - DOMAIN-SUFFIX,ffzy-play2.com
+  - DOMAIN-SUFFIX,ffzy-play5.com
+  - DOMAIN-SUFFIX,ffzy-play7.com
+  - DOMAIN-SUFFIX,ffzy-online2.com

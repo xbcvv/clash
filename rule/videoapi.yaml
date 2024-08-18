@@ -1,18 +1,22 @@
 payload:
   #影视资源采集
+  - DOMAIN-SUFFIX,360zy.com
+  - DOMAIN-SUFFIX,360zy.net
+  - DOMAIN-SUFFIX,360zy.vip
+  - DOMAIN-SUFFIX,360zy.top
+  - DOMAIN-SUFFIX,360zy.tv 
+  - DOMAIN-SUFFIX,360zy1.com
+  - DOMAIN-SUFFIX,360zy2.com
+  - DOMAIN-SUFFIX,360zy3.com
+  - DOMAIN-SUFFIX,360zy4.com
+  - DOMAIN-SUFFIX,360zy5.com
+  - DOMAIN-SUFFIX,lyhuicheng.com
+  - DOMAIN-SUFFIX,360jiexi.com
+  - DOMAIN-SUFFIX,zyjiexi.com
   - DOMAIN-SUFFIX,ikunzy.com
   - DOMAIN-SUFFIX,ikunzy.net
   - DOMAIN-SUFFIX,ikunzy.org
   - DOMAIN-SUFFIX,ikunzy.vip
-  - DOMAIN-SUFFIX,ikzy1.com
-  - DOMAIN-SUFFIX,ikzy2.com
-  - DOMAIN-SUFFIX,ikzy3.com
-  - DOMAIN-SUFFIX,ikzy4.com
-  - DOMAIN-SUFFIX,ikzy5.com
-  - DOMAIN-SUFFIX,ikzy6.com
-  - DOMAIN-SUFFIX,ikzy7.com
-  - DOMAIN-SUFFIX,ikzy8.com
-  - DOMAIN-SUFFIX,ikzy9.com
   - DOMAIN-SUFFIX,ikdmjx.com
   - DOMAIN-SUFFIX,ikuncjfl.com
   - DOMAIN-SUFFIX,ikunzyapi.com

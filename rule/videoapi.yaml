@@ -56,10 +56,13 @@ payload:
   - DOMAIN-SUFFIX,sljxsl.com
   - DOMAIN-SUFFIX,slslbf.com
   - DOMAIN-SUFFIX,slinpic.com
+  - DOMAIN-SUFFIX,aosikazy.com
+  - DOMAIN-SUFFIX,aosikazyplayurl.com
+  - DOMAIN-SUFFIX,aosikazy.com
+  - DOMAIN-SUFFIX,askzycdn.com
+  - DOMAIN-SUFFIX,wdeab01.com
   - DOMAIN-SUFFIX,quankan.app
   - DOMAIN-SUFFIX,taopianzy.com
-  - DOMAIN-SUFFIX,taopianzy1.com
-  - DOMAIN-SUFFIX,taopianzy2.com
   - DOMAIN-SUFFIX,taopianimage1.com
   - DOMAIN-SUFFIX,tpvod.com
   - DOMAIN-SUFFIX,taopianapi.com
@@ -71,12 +74,3 @@ payload:
   - DOMAIN-SUFFIX,huishij.com
   - DOMAIN-SUFFIX,tiankongapi.com
   - DOMAIN-SUFFIX,dious.cc
-  - DOMAIN-SUFFIX,tkzy1.com
-  - DOMAIN-SUFFIX,tkzy2.com
-  - DOMAIN-SUFFIX,tkzy3.com
-  - DOMAIN-SUFFIX,tkzy4.com
-  - DOMAIN-SUFFIX,tkzy5.com
-  - DOMAIN-SUFFIX,tkzy6.com
-  - DOMAIN-SUFFIX,tkzy7.com
-  - DOMAIN-SUFFIX,tkzy8.com
-  - DOMAIN-SUFFIX,tkzy9.com

@@ -1,5 +1,38 @@
 payload:
   #影视资源采集
+  - DOMAIN-SUFFIX,hdzyk.com
+  - DOMAIN-SUFFIX,yzzy.tv
+  - DOMAIN-SUFFIX,1080zyk1.com
+  - DOMAIN-SUFFIX,1080zyk15.com
+  - DOMAIN-SUFFIX,zykbf.com
+  - DOMAIN-SUFFIX,yyzyplay.com
+  - DOMAIN-SUFFIX,imgyzzy.com
+  - DOMAIN-SUFFIX,yzzyimages.com
+  - DOMAIN-SUFFIX,play-cdn2.com
+  - DOMAIN-SUFFIX,play-cdn3.com
+  - DOMAIN-SUFFIX,play-cdn4.com
+  - DOMAIN-SUFFIX,play-cdn5.com
+  - DOMAIN-SUFFIX,play-cdn6.com
+  - DOMAIN-SUFFIX,play-cdn7.com
+  - DOMAIN-SUFFIX,play-cdn8.com
+  - DOMAIN-SUFFIX,play-cdn9.com
+  - DOMAIN-SUFFIX,play-cdn10.com
+  - DOMAIN-SUFFIX,play-cdn12.com
+  - DOMAIN-SUFFIX,play-cdn13.com
+  - DOMAIN-SUFFIX,play-cdn14.com
+  - DOMAIN-SUFFIX,play-cdn15.com
+  - DOMAIN-SUFFIX,play-cdn16.com
+  - DOMAIN-SUFFIX,play-cdn17.com
+  - DOMAIN-SUFFIX,play-cdn18.com
+  - DOMAIN-SUFFIX,play-cdn19.com
+  - DOMAIN-SUFFIX,high1-playback.com
+  - DOMAIN-SUFFIX,high20-playback.com
+  - DOMAIN-SUFFIX,high21-playback.com
+  - DOMAIN-SUFFIX,high22-playback.com
+  - DOMAIN-SUFFIX,high23-playback.com
+  - DOMAIN-SUFFIX,high24-playback.com
+  - DOMAIN-SUFFIX,high25-playback.com
+  - DOMAIN-SUFFIX,yzzy5-play.com
   - DOMAIN-SUFFIX,jinyingzy.com
   - DOMAIN-SUFFIX,jinyingzy.net
   - DOMAIN-SUFFIX,iapijy.com

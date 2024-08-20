@@ -1,5 +1,11 @@
 payload:
   #影视资源采集
+  - DOMAIN-SUFFIX,jinyingzy.com
+  - DOMAIN-SUFFIX,jinyingzy.net
+  - DOMAIN-SUFFIX,iapijy.com
+  - DOMAIN-SUFFIX,jyzyapi.com
+  - DOMAIN-SUFFIX,ijycnd.com
+  - DOMAIN-SUFFIX,jinyingimage.com
   - DOMAIN-SUFFIX,zuidazy.me
   - DOMAIN-SUFFIX,zuida001.com
   - DOMAIN-SUFFIX,zuidplay.com

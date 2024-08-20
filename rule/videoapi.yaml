@@ -1,5 +1,9 @@
 payload:
   #影视资源采集
+  - DOMAIN-SUFFIX,zuidazy.me
+  - DOMAIN-SUFFIX,zuida001.com
+  - DOMAIN-SUFFIX,zuidplay.com
+  - DOMAIN-SUFFIX,zuidapi.com
   - DOMAIN-SUFFIX,360zy.com
   - DOMAIN-SUFFIX,360zy.net
   - DOMAIN-SUFFIX,360zy.vip

@@ -167,6 +167,12 @@ payload:
   - DOMAIN-SUFFIX,askzycdn.com
   - DOMAIN-SUFFIX,wdeab01.com
   - DOMAIN-SUFFIX,quankan.app  
+    #豪华资源
+  - DOMAIN-SUFFIX,haohuazy.com
+  - DOMAIN-SUFFIX,hhjiexi.com
+  - DOMAIN-SUFFIX,hhzyapi.com
+  - DOMAIN-SUFFIX,hhmage.com
+  - DOMAIN-SUFFIX,hhuus.com
     #淘片
   - DOMAIN-SUFFIX,taopianzy.com
   - DOMAIN-SUFFIX,taopianimage1.com

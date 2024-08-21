@@ -154,6 +154,11 @@ payload:
   - DOMAIN-SUFFIX,jiuyueziyuan.com
   - DOMAIN-SUFFIX,jiuyuezy.cc
   - DOMAIN-SUFFIX,jiuyuezy.live
+    #悠悠资源
+  - DOMAIN-SUFFIX,yycmszyw.com
+  - DOMAIN-SUFFIX,yycmszywapi.cc
+  - DOMAIN-SUFFIX,yycmszywtu.cc
+  - DOMAIN-SUFFIX,yycmszywbf.cc
     #森林
   - DOMAIN-SUFFIX,senlinzy.com
   - DOMAIN-SUFFIX,slapibf.com

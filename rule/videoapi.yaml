@@ -154,6 +154,19 @@ payload:
   - DOMAIN-SUFFIX,jiuyueziyuan.com
   - DOMAIN-SUFFIX,jiuyuezy.cc
   - DOMAIN-SUFFIX,jiuyuezy.live
+    #阿里BB
+  - DOMAIN-SUFFIX,bbckzy.com
+  - DOMAIN-SUFFIX,bbckzy1.cc
+  - DOMAIN-SUFFIX,bbckzy2.cc
+  - DOMAIN-SUFFIX,bbckzy3.cc
+  - DOMAIN-SUFFIX,bbckzy4.cc
+  - DOMAIN-SUFFIX,bbckzy5.cc
+  - DOMAIN-SUFFIX,bbckzy6.cc
+  - DOMAIN-SUFFIX,bbckzy7.cc
+  - DOMAIN-SUFFIX,bbckzy8.cc
+  - DOMAIN-SUFFIX,bbckzy9.cc
+  - DOMAIN-SUFFIX,bbckzy10.cc
+  - DOMAIN-SUFFIX,bbckjk1.com
     #悠悠资源
   - DOMAIN-SUFFIX,yycmszyw.com
   - DOMAIN-SUFFIX,yycmszywapi.cc

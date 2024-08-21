@@ -1,5 +1,11 @@
 payload:
   #影视资源采集
+  - DOMAIN-SUFFIX,xinlangzy.com
+  - DOMAIN-SUFFIX,xinlangapi.com
+  - DOMAIN-SUFFIX,xinlangjiexi.com
+  - DOMAIN-SUFFIX,xlzyfa.com
+  - DOMAIN-SUFFIX,xluuss.com
+  - DOMAIN-SUFFIX,xinlangtupian.com
   - DOMAIN-SUFFIX,hdzyk.com
   - DOMAIN-SUFFIX,yzzy.tv
   - DOMAIN-SUFFIX,1080zyk1.com

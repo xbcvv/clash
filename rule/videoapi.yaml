@@ -1,17 +1,5 @@
 payload:
   #影视资源采集
-    #新浪
-  - DOMAIN-SUFFIX,xinlangzy.com
-  - DOMAIN-SUFFIX,xinlangapi.com
-  - DOMAIN-SUFFIX,xinlangjiexi.com
-  - DOMAIN-SUFFIX,xlzyfa.com
-  - DOMAIN-SUFFIX,xlzyd.com
-  - DOMAIN-SUFFIX,xlzys.com
-  - DOMAIN-SUFFIX,xlzyq.com
-  - DOMAIN-SUFFIX,xlzyb.com
-  - DOMAIN-SUFFIX,xlzym.com
-  - DOMAIN-SUFFIX,xluuss.com
-  - DOMAIN-SUFFIX,xinlangtupian.com
     #优质
   - DOMAIN-SUFFIX,hdzyk.com
   - DOMAIN-SUFFIX,yzzy.tv
@@ -46,6 +34,22 @@ payload:
   - DOMAIN-SUFFIX,high24-playback.com
   - DOMAIN-SUFFIX,high25-playback.com
   - DOMAIN-SUFFIX,yzzy5-play.com
+    #黑木耳
+  - DOMAIN-SUFFIX,heimuer.xyz
+  - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-SUFFIX,heimuertv.com
+    #华为
+  - DOMAIN-SUFFIX,cjhwba.com
+  - DOMAIN-SUFFIX,huaweiba.live
+  - DOMAIN-SUFFIX,hmrvideo.com
+  - DOMAIN-SUFFIX,hw8.lol
+  - DOMAIN-SUFFIX,huawei8.live
+  - DOMAIN-SUFFIX,nikanba.live
+    #暴风
+  - DOMAIN-SUFFIX,bfzy.tv
+  - DOMAIN-SUFFIX,vipuuvip.com
+  - DOMAIN-SUFFIX,rrcdnbf3.com
+  - DOMAIN-SUFFIX,bfzyapi.com
     #金鹰
   - DOMAIN-SUFFIX,jinyingzy.com
   - DOMAIN-SUFFIX,jinyingzy.net
@@ -53,6 +57,18 @@ payload:
   - DOMAIN-SUFFIX,jyzyapi.com
   - DOMAIN-SUFFIX,ijycnd.com
   - DOMAIN-SUFFIX,jinyingimage.com
+    #新浪
+  - DOMAIN-SUFFIX,xinlangzy.com
+  - DOMAIN-SUFFIX,xinlangapi.com
+  - DOMAIN-SUFFIX,xinlangjiexi.com
+  - DOMAIN-SUFFIX,xlzyfa.com
+  - DOMAIN-SUFFIX,xlzyd.com
+  - DOMAIN-SUFFIX,xlzys.com
+  - DOMAIN-SUFFIX,xlzyq.com
+  - DOMAIN-SUFFIX,xlzyb.com
+  - DOMAIN-SUFFIX,xlzym.com
+  - DOMAIN-SUFFIX,xluuss.com
+  - DOMAIN-SUFFIX,xinlangtupian.com
     #最大
   - DOMAIN-SUFFIX,zuidazy.me
   - DOMAIN-SUFFIX,zuida001.com
@@ -78,6 +94,12 @@ payload:
   - DOMAIN-SUFFIX,imgzy360.com
   - DOMAIN-SUFFIX,360jiexi.com
   - DOMAIN-SUFFIX,zyjiexi.com
+    #快车
+  - DOMAIN-SUFFIX,kuaichezy.com
+  - DOMAIN-SUFFIX,kuaichezy9.com
+  - DOMAIN-SUFFIX,kczyapi.com
+  - DOMAIN-SUFFIX,longshengtea.com
+  - DOMAIN-SUFFIX,kuaichezy.net
     #ikun
   - DOMAIN-SUFFIX,ikunzy.com
   - DOMAIN-SUFFIX,ikunzy.net
@@ -89,22 +111,6 @@ payload:
   - DOMAIN-SUFFIX,ikunzyapi.com
   - DOMAIN-SUFFIX,haokantv.cyou
   - DOMAIN-SUFFIX,bfikuncdn.com
-    #黑木耳
-  - DOMAIN-SUFFIX,heimuer.xyz
-  - DOMAIN-SUFFIX,heimuer.tv
-  - DOMAIN-SUFFIX,heimuertv.com
-    #华为
-  - DOMAIN-SUFFIX,cjhwba.com
-  - DOMAIN-SUFFIX,huaweiba.live
-  - DOMAIN-SUFFIX,hmrvideo.com
-  - DOMAIN-SUFFIX,hw8.lol
-  - DOMAIN-SUFFIX,huawei8.live
-  - DOMAIN-SUFFIX,nikanba.live
-    #暴风
-  - DOMAIN-SUFFIX,bfzy.tv
-  - DOMAIN-SUFFIX,vipuuvip.com
-  - DOMAIN-SUFFIX,rrcdnbf3.com
-  - DOMAIN-SUFFIX,bfzyapi.com
     #索尼
   - DOMAIN-SUFFIX,suonizy.net
   - DOMAIN-SUFFIX,suonizy.com

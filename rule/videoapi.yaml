@@ -172,6 +172,10 @@ payload:
   - DOMAIN-SUFFIX,yycmszywapi.cc
   - DOMAIN-SUFFIX,yycmszywtu.cc
   - DOMAIN-SUFFIX,yycmszywbf.cc
+    #好色视频
+  - DOMAIN-SUFFIX,haosezyw.com
+  - DOMAIN-SUFFIX,haosezycdnshipin.com
+  - DOMAIN-SUFFIX,haosezycdnimg.com
     #森林
   - DOMAIN-SUFFIX,senlinzy.com
   - DOMAIN-SUFFIX,slapibf.com

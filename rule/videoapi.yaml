@@ -200,6 +200,24 @@ payload:
   - DOMAIN-SUFFIX,taopianimage1.com
   - DOMAIN-SUFFIX,tpvod.com
   - DOMAIN-SUFFIX,taopianapi.com
+    #虎牙
+  - DOMAIN-SUFFIX,huyazy.com
+  - DOMAIN-SUFFIX,huyaapi.com
+  - DOMAIN-SUFFIX,huyajx.com
+  - DOMAIN-SUFFIX,huyall.com
+  - DOMAIN-SUFFIX,huyajs.com
+    #玉兔
+  - DOMAIN-SUFFIX,yutuzy.com
+  - DOMAIN-SUFFIX,yutujx.com
+  - DOMAIN-SUFFIX,apiyutu.com
+  - DOMAIN-SUFFIX,lsbbf2.com
+  - DOMAIN-SUFFIX,sbzytpimg1.com
+    #桃花
+  - DOMAIN-SUFFIX,thzy1.me
+  - DOMAIN-SUFFIX,thzy2.me
+  - DOMAIN-SUFFIX,thzy3.me
+  - DOMAIN-SUFFIX,thm3u8.com
+  - DOMAIN-SUFFIX,thjpg.xyz
     #百度
   - DOMAIN-SUFFIX,bdzy.tv
   - DOMAIN-SUFFIX,bdzybf11.com

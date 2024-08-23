@@ -237,3 +237,25 @@ payload:
   - DOMAIN-SUFFIX,tiankongapi.com
   - DOMAIN-SUFFIX,huishij.com
   - DOMAIN-SUFFIX,dious.cc
+    #VIP解析
+  - DOMAIN-SUFFIX,xmflv.com
+  - DOMAIN-SUFFIX,im1907.top
+  - DOMAIN-SUFFIX,bljiex.cc
+  - DOMAIN-SUFFIX,m3u8.tv
+  - DOMAIN-SUFFIX,xyflv.cc
+  - DOMAIN-SUFFIX,2s0.cn
+  - DOMAIN-SUFFIX,qqwtt.com
+  - DOMAIN-SUFFIX,jsonplayer.com
+  - DOMAIN-SUFFIX,ckplayer.vip
+  - DOMAIN-SUFFIX,mpos.ren
+  - DOMAIN-SUFFIX,playm3u8.cn
+  - DOMAIN-SUFFIX,pangujiexi.com
+  - DOMAIN-SUFFIX,im1907.top
+  - DOMAIN-SUFFIX,yemu.xyz
+  - DOMAIN-SUFFIX,administratorw.com
+  - DOMAIN-SUFFIX,qianqi.net
+  - DOMAIN-SUFFIX,ik9.cc
+  - DOMAIN-SUFFIX,yangtu.top
+  - DOMAIN-SUFFIX,playerjy.com
+  - DOMAIN-SUFFIX,ckmov.com
+  - DOMAIN-SUFFIX,iztyy.com

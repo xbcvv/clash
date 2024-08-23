@@ -237,6 +237,11 @@ payload:
   - DOMAIN-SUFFIX,tiankongapi.com
   - DOMAIN-SUFFIX,huishij.com
   - DOMAIN-SUFFIX,dious.cc
+    #花旗
+  - DOMAIN-SUFFIX,maccms.ru
+  - DOMAIN-SUFFIX,seacms.org
+  - DOMAIN-SUFFIX,huaqi.live
+  - DOMAIN-SUFFIX,qhimg.com
     #VIP解析
   - DOMAIN-SUFFIX,xmflv.com
   - DOMAIN-SUFFIX,im1907.top

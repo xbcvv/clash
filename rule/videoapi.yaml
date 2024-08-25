@@ -242,6 +242,9 @@ payload:
   - DOMAIN-SUFFIX,seacms.org
   - DOMAIN-SUFFIX,huaqi.live
   - DOMAIN-SUFFIX,qhimg.com
+    #小猫
+  - DOMAIN-SUFFIX,xiaomaomi.cc
+  - DOMAIN-SUFFIX,xiaomaomi.tv
     #VIP解析
   - DOMAIN-SUFFIX,xmflv.com
   - DOMAIN-SUFFIX,im1907.top
@@ -264,3 +267,4 @@ payload:
   - DOMAIN-SUFFIX,playerjy.com
   - DOMAIN-SUFFIX,ckmov.com
   - DOMAIN-SUFFIX,iztyy.com
+  - DOMAIN-SUFFIX,zyc888.top

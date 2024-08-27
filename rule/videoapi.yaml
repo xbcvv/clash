@@ -38,6 +38,8 @@ payload:
   - DOMAIN-SUFFIX,heimuer.xyz
   - DOMAIN-SUFFIX,heimuer.tv
   - DOMAIN-SUFFIX,heimuertv.com
+  - DOMAIN-SUFFIX,hmrvideo.com
+  - DOMAIN-SUFFIX,heimuer.app
     #华为
   - DOMAIN-SUFFIX,cjhwba.com
   - DOMAIN-SUFFIX,huaweiba.live

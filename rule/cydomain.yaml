@@ -154,6 +154,9 @@ payload:
   - DOMAIN-SUFFIX,api.hope140.cc
   - DOMAIN-SUFFIX,api.hope140.ga
   - DOMAIN-KEYWORD,edu.cn
+  - DOMAIN-KEYWORD,iycms.com
+  - DOMAIN-KEYWORD,maccms.la
+  - DOMAIN-KEYWORD,seacms.net
   #影视娱乐
   - DOMAIN-SUFFIX,99meiju.cn
   - DOMAIN-SUFFIX,netflixgc.com

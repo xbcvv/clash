@@ -59,6 +59,26 @@ payload:
   - DOMAIN-SUFFIX,jyzyapi.com
   - DOMAIN-SUFFIX,ijycnd.com
   - DOMAIN-SUFFIX,jinyingimage.com
+    #量子
+  - DOMAIN-SUFFIX,lzizy.net
+  - DOMAIN-SUFFIX,lzizy8.net
+  - DOMAIN-SUFFIX,lziplayer.com
+  - DOMAIN-SUFFIX,lzcaiji.com
+  - DOMAIN-SUFFIX,lziapi.com
+  - DOMAIN-SUFFIX,lzzyimg.com
+  - DOMAIN-SUFFIX,lzcdn2.com
+  - DOMAIN-SUFFIX,lz-cdn1.com
+  - DOMAIN-SUFFIX,lz-cdn7.com
+  - DOMAIN-SUFFIX,lz-cdn15.com
+  - DOMAIN-SUFFIX,cdnlz1.com
+  - DOMAIN-SUFFIX,cdnlz12.com
+  - DOMAIN-SUFFIX,cdnlz22.com
+  - DOMAIN-SUFFIX,cdnlz19.com
+  - DOMAIN-SUFFIX,lzidw.com
+  - DOMAIN-SUFFIX,dowlz16.com
+  - DOMAIN-SUFFIX,dowlz18.com
+  - DOMAIN-SUFFIX,dowlz19.com
+  - DOMAIN-SUFFIX,lz15uu.com
     #新浪
   - DOMAIN-SUFFIX,xinlangzy.com
   - DOMAIN-SUFFIX,xinlangapi.com

@@ -1,5 +1,6 @@
 payload:
 # 自用常用直连网站
+  - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,flac.life
   - DOMAIN-SUFFIX,spfnas.cc
   - DOMAIN-SUFFIX,tianapi.com

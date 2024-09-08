@@ -106,6 +106,12 @@ payload:
   - DOMAIN-SUFFIX,feisuzyapi.com
   - DOMAIN-SUFFIX,fsvod1.com
   - DOMAIN-SUFFIX,feisuimg.com
+    #鸭鸭
+  - DOMAIN-SUFFIX,yayazy.com
+  - DOMAIN-SUFFIX,yayazy.cc
+  - DOMAIN-SUFFIX,yayazy.net
+  - DOMAIN-SUFFIX,yayazy.info
+  - DOMAIN-SUFFIX,qdhdcate.com
     #360
   - DOMAIN-SUFFIX,360zy.com
   - DOMAIN-SUFFIX,360zy.net

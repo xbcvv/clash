@@ -1,0 +1,307 @@
+{
+    "version": 1,
+    "rules": [
+    {
+      "domain_suffix": [
+        #优质
+         "hdzyk.com",
+         "yzzy.tv",
+         "1080zyk1.com",
+         "1080zyk15.com",
+         "zykbf.com",
+         "yyzyplay.com",
+         "imgyzzy.com",
+         "yzzyimages.com",
+         "play-cdn2.com",
+         "play-cdn3.com",
+         "play-cdn4.com",
+         "play-cdn5.com",
+         "play-cdn6.com",
+         "play-cdn7.com",
+         "play-cdn8.com",
+         "play-cdn9.com",
+         "play-cdn10.com",
+         "play-cdn12.com",
+         "play-cdn13.com",
+         "play-cdn14.com",
+         "play-cdn15.com",
+         "play-cdn16.com",
+         "play-cdn17.com",
+         "play-cdn18.com",
+         "play-cdn19.com",
+         "high1-playback.com",
+         "high20-playback.com",
+         "high21-playback.com",
+         "high22-playback.com",
+         "high23-playback.com",
+         "high24-playback.com",
+         "high25-playback.com",
+         "yzzy5-play.com",
+        #黑木耳
+         "heimuer.xyz",
+         "heimuer.tv",
+         "heimuertv.com",
+         "hmrvideo.com",
+         "heimuer.app",
+        #华为
+         "cjhwba.com",
+         "huaweiba.live",
+         "hmrvideo.com",
+         "hw8.lol",
+         "huawei8.live",
+         "nikanba.live",
+        #暴风
+         "bfzy.tv",
+         "vipuuvip.com",
+         "rrcdnbf3.com",
+         "bfzyapi.com",
+        #金鹰
+         "jinyingzy.com",
+         "jinyingzy.net",
+         "iapijy.com",
+         "jyzyapi.com",
+         "ijycnd.com",
+         "jinyingimage.com",
+        #量子
+         "lzizy.net",
+         "lzizy8.net",
+         "lziplayer.com",
+         "lzcaiji.com",
+         "lziapi.com",
+         "lzzyimg.com",
+         "lzcdn2.com",
+         "lz-cdn1.com",
+         "lz-cdn7.com",
+         "lz-cdn15.com",
+         "cdnlz1.com",
+         "cdnlz12.com",
+         "cdnlz22.com",
+         "cdnlz19.com",
+         "lzidw.com",
+         "dowlz16.com",
+         "dowlz18.com",
+         "dowlz19.com",
+         "lz15uu.com",
+        #新浪
+         "xinlangzy.com",
+         "xinlangapi.com",
+         "xinlangjiexi.com",
+         "xlzyfa.com",
+         "xlzyd.com",
+         "xlzys.com",
+         "xlzyq.com",
+         "xlzyb.com",
+         "xlzym.com",
+         "xluuss.com",
+         "xinlangtupian.com",
+        #最大
+         "zuidazy.me",
+         "zuida001.com",
+         "zuidplay.com",
+         "zuidapi.com",
+         "daayee.com",
+         "zuidapic.com",
+        #飞速
+         "feisuzy.com",
+         "fszy1.com",
+         "fszy10.com",
+         "feisuplayer.com",
+         "feisuzyapi.com",
+         "fsvod1.com",
+         "feisuimg.com",
+        #鸭鸭
+         "yayazy.com",
+         "yayazy.cc",
+         "yayazy.net",
+         "yayazy.info",
+         "qdhdcate.com",
+         "yayazy1.com",
+        #360
+         "360zy.com",
+         "360zy.net",
+         "360zy.vip",
+         "360zy.top",
+         "360zy.tv",
+         "lyhuicheng.com",
+         "imgzy360.com",
+         "360jiexi.com",
+         "zyjiexi.com",
+        #快车
+         "kuaichezy.com",
+         "kuaichezy9.com",
+         "kczyapi.com",
+         "longshengtea.com",
+         "kuaichezy.net",
+        #ikun
+         "ikunzy.com",
+         "ikunzy.net",
+         "ikunzy.org",
+         "ikunzy.vip",
+         "ikdmjx.com",
+         "imgikzy.com",
+         "ikuncjfl.com",
+         "ikunzyapi.com",
+         "haokantv.cyou",
+         "bfikuncdn.com",
+        #索尼
+         "suonizy.net",
+         "suonizy.com",
+         "suoniapi.com",
+         "snplayer.com",
+         "qrssv.com",
+         "snzypic.vip",
+        #闪电
+         "shandianzy.com",
+         "shankubf.com",
+         "fentvoss.com",
+         "sdzyapi.com",
+         "shandianpic.com",
+        #非凡
+         "ffzy1.tv",
+         "ffzy5.tv",
+         "ffzyplay.com",
+         "ffzyapi.com",
+         "ffzyplayer.com",
+         "image8899.net",
+         "ffzy888.com",
+         "ffzy-video.com",
+         "ffzy-online1.com",
+         "ffzy-online2.com",
+         "ffzy-online4.com",
+         "ffzy-online5.com",
+         "ffzy-online6.com",
+         "ffzyread1.com",
+         "ffzyread2.com",
+         "ffzy-play2.com",
+         "ffzy-play5.com",
+         "ffzy-play6.com",
+         "ffzy-play7.com",
+        #九月
+         "jiuyuezy.com",
+         "jiuyueapi.com",
+         "9yuezy.com",
+         "jiuyuezy.top",
+         "jiuyuezy.me",
+         "jiuyuezy.net",
+         "jiuyueziyuan.com",
+         "jiuyuezy.cc",
+         "jiuyuezy.live",
+        #阿里BB
+         "bbckzy.com",
+         "bbckzy1.cc",
+         "bbckzy2.cc"
+        ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

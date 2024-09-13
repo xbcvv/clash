@@ -3,7 +3,6 @@
     "rules": [
     {
       "domain_suffix": [
-# 国内大部分PT站及国外小部分
          "okfun.org",
          "kimoji.club",
          "cinefiles.info",
@@ -14,183 +13,172 @@
          "kelu.one",
          "ianon.app",
          "ptfans.cc",
-        # CD File"
          "pt.cdfile.org",
-        # ToSky"
          "tosky.club",
-        # 狗站"
          "dogpt.cc",
-        # 駕瞑羅PT"
          "gamerapt.link",
-        # 象岛"
          "ptvicomo.net",
-        # AGSV末日"
          "agsvpt.com",
-        # TU88"
          "tu88.men",
-        # 超科学PT喵"
          "ptneko.com",
-        # 路"
          "hdroute.org",
-        # 红叶"
          "leaves.red",
-        # 0day.pt"
          "pt.6a6b.com",
-        # PT GTK"
          "pt.gtk.pw",
-        # 麒麟"
          "hdkyl.in",
          "hdkylin.top",
          "img.hdkylin.com",
-        # Free Farm 自由农场"
          "0ff.cc",
-        # 1PTBA 壹PT"
          "1ptba.com",
-        # 2Xfree"
          "2xfree.org",
-        # 观众"
          "audiences.me",
-        # 梓喵"
          "azusa.wiki",
-        # 学校"
          "btschool.club",
-        # carPT"
          "carpt.net",
-        # 白兔"
          "club.hares.top",
-        # 大青虫"
          "cyanbug.net",
-        # 打胶"
          "dajiao.cyou",
-        # 蝶粉/港之堂"
          "discfan.net",
-        # 龍之家"
          "dragonhd.xyz",
-        # TLFBits"
          "eastgame.org",
-        # TCCF"
          "et8.org",
-        # GGPT"
          "gamegamept.com",
-        # 海豚"
          "dicmusic.com",
-        # GPW 海豹"
          "greatposterwall.com",
-        # 海胆"
          "haidan.video",
-        # 兽"
          "hd4fans.org",
-        # HDArea 高清世界"
          "hdarea.club",
          "hdarea.co",
-        # HDAtmos 阿童木"
          "hdatmos.club",
-        # HDFans"
          "hdfans.org",
-        # HDFun"
          "hdfun.me",
-        # 蚂蚁"
          "hdmayi.com",
-        # 普斯特"
          "hdpost.top",
-        # 高清时间"
          "hdtime.org",
-        # 百川"
          "hitpt.com",
-        # PT分享站"
          "itzmx.com",
-        # JoyHD 开心"
          "joyhd.net",
-        # KamePT"
          "kamept.com",
-        # 库非"
          "kufei.org",
-        # 莫妮卡"
          "monikadesign.uk",
          "anime-no-index.com",
-        # 老师"
          "nicept.net",
-        # OKPT"
          "okpt.net",
-        # 奥申"
          "oshen.win",
-        # 熊猫"
          "pandapt.net",
-        # 猪猪"
          "piggo.me",
-        # 咖啡"
          "ptcafe.club",
-        # 铂金学院"
          "ptchina.org",
-        # PTHOME 铂金家"
          "pthome.net",
-        # PTLSP"
          "ptlsp.com",
-        # 烧包"
          "ptsbao.club",
-        # PT时间"
          "pttime.org",
-        # 肉丝"
          "rousi.zip",
-        # 萝莉"
          "share.ilolicon.com",
-        # SRVFI"
          "srvfi.top",
-        # UBits"
          "ubits.club",
-        # UltraHD"
          "ultrahd.net",
-        # 东樱"
          "wintersakura.net",
-        # 悟空问道"
          "wukongwendao.top",
-        # 杏坛"
          "xingtan.one",
-        # 朱雀"
          "zhuque.in",
-        # 织梦"
          "zmpt.cc",
-        # 杜比"
          "hddolby.com",
-        # 家园"
          "hdhome.org",
-        # 天空"
          "hdsky.me",
-        # 朋友"
          "keepfrds.com",
-        # 南洋"
          "nanyangpt.com",
-        # 皇后"
          "open.cd",
-        # 我堡"
          "ourbits.club",
-        # 猫站"
          "pterclub.com",
-        # TTG"
          "totheglory.im",
-        # 学校"
          "btschool.net",
-        # ECUST PT华东理工"
          "ecustpt.eu.org",
          "pt.ecust.pp.ua",
-        # CinemaZ",
          "cinemaz.to",
-        # Anime Torrents"
          "animetorrents.me",
-        # HQMUSIC"
          "hqmusic.info",
-        # HD-Space"
          "hd-space.org",
-        # 52PT"
          "52pt.site",
          "52dic.vip",
-        # 明教"
          "hdpt.xyz",
-        # 海棠"
          "htpt.cc",
-        # 蟹黄堡"
          "837576.xyz",
-         "crabpt.vip"
+         "crabpt.vip",
+		 "new.qingwa.pro",
+         "qingwapt.com",
+         "wawawa.me",
+         "icc2022.com",
+         "icc2022.top",
+         "icc2022.de",
+         "skyey.win",
+         "skyey2.com",
+         "hdupt.com",
+         "upxin.net",
+         "hdvideo.one",
+         "hdvbits.com",
+         "hhan.club",
+         "hhanclub.top",
+         "soulvoice.club",
+         "soulvoice.org",
+         "chdbits.co",
+         "chdbits.xyz",
+         "ptchdbits.co",
+         "springsunday.net",
+         "hdcmct.org",
+         "tjupt.org",
+         "tju.pt",
+         "hudbt.hust.edu.cn",
+         "zeus.hamsters.space",
+         "hdcity.city",
+         "hdcity.work ",
+         "sync.leniter.org",
+         "connected.hdcity.city",
+         "hdcity.leniter.org",
+         "hdcity4.leniter.org",
+         "m-team.cc",
+         "m-team.io",
+         "iptorrents.com",
+         "iptorrents.me",
+         "ipt.getcrazy.me",
+         "ipt.findnemo.net",
+         "ipt.beelyrics.net",
+         "ipt.venom.global",
+         "ipt.workisboring.net",
+         "ipt.lol",
+         "ipt.cool",
+         "ipt.world",
+         "ipt.octopus.town",
+         "torrentleech.cc",
+         "torrentleech.me",
+         "tlgetin.cc",
+         "czhch.com",
+         "freeimage.host",
+         "iili.io",
+         "imgbox.com",
+         "loli.net",
+         "sm.ms",
+         "ax1x.com",
+         "imgse.com",
+         "picgo.net",
+         "i.ibb.co",
+         "imgbb.com",
+         "imagebam.com",
+         "s9.gifyu.com",
+         "img4k.net",
+         "imagetwist.com",
+         "up.ccp.ovh",
+         "picgd.com",
+         "badgen.net",
+         "postimg.cc",
+         "postimages.org",
+         "p.sda1.dev",
+         "beyondhd.co",
+         "shewang.net",
+         "nickyam.com",
+         "pixhost.to",
+         "z4a.net",
+         "ptpimg.me"
         ]
     }
   ]

@@ -3,7 +3,6 @@
     "rules": [
     {
       "domain_suffix": [
-	    # 自用常用直连网站
          "us.kg",
          "flac.life",
          "spfnas.cc",
@@ -162,7 +161,6 @@
          "iycms.com",
          "maccms.la",
          "seacms.net",
-        #影视娱乐
          "99meiju.cn",
          "netflixgc.com",
          "btbtt34.com",
@@ -190,7 +188,24 @@
          "hifini.com",
          "wuhenge.com",
          "legado.aoaostar.com",
-         "bgm.tv"
+         "bgm.tv",
+         "mobilefuse.com",
+         "inmobi.com",
+         "crashlytics.com",
+         "talkatone.com",
+         "kochava.com",
+         "cohere.com",
+         "ip-api.com",
+         "agkn.com",
+         "tktn.at"
+        ]
+    },
+    {
+      "ip_cidr": [
+         "50.117.27.0/24",
+         "69.46.75.0/24",
+         "205.164.56.0/24",
+         "63.251.124.0/24"
         ]
     }
   ]

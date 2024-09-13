@@ -3,7 +3,6 @@
     "rules": [
     {
       "domain_suffix": [
-        #优质
          "hdzyk.com",
          "yzzy.tv",
          "1080zyk1.com",
@@ -37,32 +36,27 @@
          "high24-playback.com",
          "high25-playback.com",
          "yzzy5-play.com",
-        #黑木耳
          "heimuer.xyz",
          "heimuer.tv",
          "heimuertv.com",
          "hmrvideo.com",
          "heimuer.app",
-        #华为
          "cjhwba.com",
          "huaweiba.live",
          "hmrvideo.com",
          "hw8.lol",
          "huawei8.live",
          "nikanba.live",
-        #暴风
          "bfzy.tv",
          "vipuuvip.com",
          "rrcdnbf3.com",
          "bfzyapi.com",
-        #金鹰
          "jinyingzy.com",
          "jinyingzy.net",
          "iapijy.com",
          "jyzyapi.com",
          "ijycnd.com",
          "jinyingimage.com",
-        #量子
          "lzizy.net",
          "lzizy8.net",
          "lziplayer.com",
@@ -82,7 +76,6 @@
          "dowlz18.com",
          "dowlz19.com",
          "lz15uu.com",
-        #新浪
          "xinlangzy.com",
          "xinlangapi.com",
          "xinlangjiexi.com",
@@ -94,14 +87,12 @@
          "xlzym.com",
          "xluuss.com",
          "xinlangtupian.com",
-        #最大
          "zuidazy.me",
          "zuida001.com",
          "zuidplay.com",
          "zuidapi.com",
          "daayee.com",
          "zuidapic.com",
-        #飞速
          "feisuzy.com",
          "fszy1.com",
          "fszy10.com",
@@ -109,14 +100,12 @@
          "feisuzyapi.com",
          "fsvod1.com",
          "feisuimg.com",
-        #鸭鸭
          "yayazy.com",
          "yayazy.cc",
          "yayazy.net",
          "yayazy.info",
          "qdhdcate.com",
          "yayazy1.com",
-        #360
          "360zy.com",
          "360zy.net",
          "360zy.vip",
@@ -126,13 +115,11 @@
          "imgzy360.com",
          "360jiexi.com",
          "zyjiexi.com",
-        #快车
          "kuaichezy.com",
          "kuaichezy9.com",
          "kczyapi.com",
          "longshengtea.com",
          "kuaichezy.net",
-        #ikun
          "ikunzy.com",
          "ikunzy.net",
          "ikunzy.org",
@@ -143,20 +130,17 @@
          "ikunzyapi.com",
          "haokantv.cyou",
          "bfikuncdn.com",
-        #索尼
          "suonizy.net",
          "suonizy.com",
          "suoniapi.com",
          "snplayer.com",
          "qrssv.com",
          "snzypic.vip",
-        #闪电
          "shandianzy.com",
          "shankubf.com",
          "fentvoss.com",
          "sdzyapi.com",
          "shandianpic.com",
-        #非凡
          "ffzy1.tv",
          "ffzy5.tv",
          "ffzyplay.com",
@@ -176,7 +160,6 @@
          "ffzy-play5.com",
          "ffzy-play6.com",
          "ffzy-play7.com",
-        #九月
          "jiuyuezy.com",
          "jiuyueapi.com",
          "9yuezy.com",
@@ -186,7 +169,6 @@
          "jiuyueziyuan.com",
          "jiuyuezy.cc",
          "jiuyuezy.live",
-        #阿里BB
          "bbckzy.com",
          "bbckzy1.cc",
          "bbckzy2.cc"

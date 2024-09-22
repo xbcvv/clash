@@ -213,9 +213,9 @@ DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,soulvoice.org
  # 彩虹岛
-#DOMAIN-SUFFIX,chdbits.co
-#DOMAIN-SUFFIX,chdbits.xyz
-#DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,chdbits.xyz
+DOMAIN-SUFFIX,ptchdbits.co
  # SSD 春天
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,hdcmct.org

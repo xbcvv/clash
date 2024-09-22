@@ -212,10 +212,10 @@ payload:
  # 聆音Club
  - DOMAIN-SUFFIX,soulvoice.club
  - DOMAIN-SUFFIX,soulvoice.org
- # 彩虹岛 跑路
- #- DOMAIN-SUFFIX,chdbits.co
- #- DOMAIN-SUFFIX,chdbits.xyz
- #- DOMAIN-SUFFIX,ptchdbits.co
+ # 彩虹岛 
+ - DOMAIN-SUFFIX,chdbits.co
+ - DOMAIN-SUFFIX,chdbits.xyz
+ - DOMAIN-SUFFIX,ptchdbits.co
  # SSD 春天
  - DOMAIN-SUFFIX,springsunday.net
  - DOMAIN-SUFFIX,hdcmct.org

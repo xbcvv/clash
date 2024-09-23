@@ -1,4 +1,5 @@
 # 自用常用直连网站
+DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,flac.life
 DOMAIN-SUFFIX,spfnas.cc
 DOMAIN-SUFFIX,tianapi.com
@@ -154,6 +155,9 @@ DOMAIN-SUFFIX,hope140.cc
 DOMAIN-SUFFIX,api.hope140.cc
 DOMAIN-SUFFIX,api.hope140.ga
 DOMAIN-KEYWORD,edu.cn
+DOMAIN-KEYWORD,iycms.com
+DOMAIN-KEYWORD,maccms.la
+DOMAIN-KEYWORD,seacms.net
   #影视娱乐
 DOMAIN-SUFFIX,99meiju.cn
 DOMAIN-SUFFIX,netflixgc.com
@@ -182,3 +186,4 @@ DOMAIN-SUFFIX,opensubtitle.info
 DOMAIN-SUFFIX,hifini.com
 DOMAIN-SUFFIX,wuhenge.com
 DOMAIN-SUFFIX,legado.aoaostar.com
+DOMAIN-SUFFIX,bgm.tv

@@ -17,6 +17,10 @@ payload:
   - DOMAIN-SUFFIX,zte.home
   - DOMAIN-SUFFIX,tplogin.cn
   - DOMAIN-SUFFIX,wifi.cmcc
+# 拼多多
+  - DOMAIN-SUFFIX,pddpic.com
+  - DOMAIN-SUFFIX,pinduoduo.com
+  - DOMAIN-SUFFIX,yangkeduo.com
 # 自用常用直连网站
   - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,flac.life

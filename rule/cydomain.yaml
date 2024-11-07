@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,zte.home
   - DOMAIN-SUFFIX,tplogin.cn
   - DOMAIN-SUFFIX,wifi.cmcc
+  - DOMAIN-SUFFIX,ikuai8.com
+  - DOMAIN-SUFFIX,ikuaios.com
 # 拼多多
   - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,pinduoduo.com

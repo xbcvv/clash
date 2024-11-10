@@ -212,3 +212,5 @@ payload:
   - DOMAIN-SUFFIX,wuhenge.com
   - DOMAIN-SUFFIX,legado.aoaostar.com
   - DOMAIN-SUFFIX,bgm.tv
+  # 机场
+  - DOMAIN-SUFFIX,sub.lilisi.me

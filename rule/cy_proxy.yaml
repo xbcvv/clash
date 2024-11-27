@@ -6,3 +6,4 @@ payload:
  - DOMAIN-SUFFIX,yemapt.org
 #需要代理的其它网站
  - DOMAIN-SUFFIX,guanxi.cloudns.be
+ - DOMAIN-SUFFIX,workers.dev

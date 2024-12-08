@@ -5,16 +5,16 @@
       "domain_suffix": [
          "us.kg",
          "flac.life",
-         "spfnas.cc",
          "7cc.fun",
+         "spfnas.cc",
          "tianapi.com",
-         "imzcc.com",
+         "imzcc.com  ",
+         "cdn.jsdelivr.net",
          "myssl.com",
          "giffgaff.com",
          "2345.com",
          "im.those.cc",
          "boxmoe.com",
-         "v1.dogapi.yachts",
          "88.com",
          "nangongmall.com",
          "pc141.com",
@@ -70,7 +70,7 @@
          "dataoke.com",
          "api.minimax.chat",
          "dahuatech.com",
-         "cli.im",
+         "cli.im  ",
          "hikvision.com",
          "ezviz.com",
          "eztv.re",
@@ -158,10 +158,6 @@
          "hope140.cc",
          "api.hope140.cc",
          "api.hope140.ga",
-         "edu.cn",
-         "iycms.com",
-         "maccms.la",
-         "seacms.net",
          "99meiju.cn",
          "netflixgc.com",
          "btbtt34.com",
@@ -190,15 +186,16 @@
          "wuhenge.com",
          "legado.aoaostar.com",
          "bgm.tv",
-         "mobilefuse.com",
-         "inmobi.com",
-         "crashlytics.com",
-         "talkatone.com",
-         "kochava.com",
-         "cohere.com",
-         "ip-api.com",
-         "agkn.com",
-         "tktn.at"        
+         "sub.lilisi.me"
+        ],
+      "domain": [
+         "v1.dogapi.yachts"
+        ],
+      "domain_keyword": [
+         "edu.cn",
+         "iycms.com",
+         "maccms.la",
+         "seacms.net"
         ]
     }
   ]

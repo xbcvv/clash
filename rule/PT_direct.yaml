@@ -10,6 +10,7 @@ payload:
  - DOMAIN-SUFFIX,kelu.one
  - DOMAIN-SUFFIX,ianon.app
  - DOMAIN-SUFFIX,ptfans.cc
+ - DOMAIN-SUFFIX,lusthive.org
  # 新柠檬
  - DOMAIN-SUFFIX,lemonhd.club
  - DOMAIN-SUFFIX,ilovelemonhd.me
@@ -20,9 +21,9 @@ payload:
  # ToSky
  - DOMAIN-SUFFIX,tosky.club
  # 狗站
- - DOMAIN-SUFFIX,dogpt.cc
+ #- DOMAIN-SUFFIX,dogpt.cc
  # 駕瞑羅PT
- - DOMAIN-SUFFIX,gamerapt.link
+ #- DOMAIN-SUFFIX,gamerapt.link
  # 象岛
  - DOMAIN-SUFFIX,ptvicomo.net
  # AGSV末日
@@ -62,7 +63,7 @@ payload:
  # 大青虫
  - DOMAIN-SUFFIX,cyanbug.net
  # 打胶
- - DOMAIN-SUFFIX,dajiao.cyou
+ #- DOMAIN-SUFFIX,dajiao.cyou
  # 蝶粉/港之堂
  - DOMAIN-SUFFIX,discfan.net
  # 龍之家
@@ -80,7 +81,7 @@ payload:
  # 海胆
  - DOMAIN-SUFFIX,haidan.video
  # 兽
- - DOMAIN-SUFFIX,hd4fans.org
+ #- DOMAIN-SUFFIX,hd4fans.org
  # HDArea 高清世界
  - DOMAIN-SUFFIX,hdarea.club
  - DOMAIN-SUFFIX,hdarea.co

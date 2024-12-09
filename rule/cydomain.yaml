@@ -19,6 +19,11 @@ payload:
   - DOMAIN-SUFFIX,wifi.cmcc
   - DOMAIN-SUFFIX,ikuai8.com
   - DOMAIN-SUFFIX,ikuaios.com
+# NTP Pool Project
+  - DOMAIN-SUFFIX,pool.ntp.org
+# Windows 网络连接探测
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
 # 拼多多
   - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,pinduoduo.com
@@ -70,7 +75,6 @@ payload:
   - DOMAIN-SUFFIX,spk.520810.xyz
   - DOMAIN-SUFFIX,nasyun.com
   - DOMAIN-SUFFIX,ipt.cm
-  - DOMAIN-SUFFIX,ikuai8.com
   - DOMAIN-SUFFIX,gxnas.com
   - DOMAIN-SUFFIX,potplayer.org
   - DOMAIN-SUFFIX,wuhenge.com
@@ -101,6 +105,9 @@ payload:
   - DOMAIN-SUFFIX,hybase.com
   - DOMAIN-SUFFIX,seewo.com
   - DOMAIN-SUFFIX,h3c.com
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,jslife.net
+  - DOMAIN-SUFFIX,nanhaicorp.com
   - DOMAIN-SUFFIX,raychase.net
   - DOMAIN-SUFFIX,scomper.me
   - DOMAIN-SUFFIX,shouqianba.com
@@ -183,7 +190,42 @@ payload:
   - DOMAIN-KEYWORD,iycms.com
   - DOMAIN-KEYWORD,maccms.la
   - DOMAIN-KEYWORD,seacms.net
-  #影视娱乐
+  - DOMAIN-SUFFIX,kit327.com
+# Emby 小雅 相关
+  - DOMAIN-SUFFIX,ddsrem.com
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,ggbond.org
+  - DOMAIN-SUFFIX,nn.ci
+  - DOMAIN-SUFFIX,xhofe.top
+  - DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
+  - DOMAIN-SUFFIX,wwwh.eu.org
+# 暴雪战网国际服下载节点
+  - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+  - DOMAIN-SUFFIX,level3.blizzard.com
+  - DOMAIN-SUFFIX,kr.cdn.blizzard.com
+  - DOMAIN-SUFFIX,us.cdn.blizzard.com
+  - DOMAIN-SUFFIX,eu.cdn.blizzard.com
+  - IP-CIDR,137.221.64.0/24,no-resolve
+  - IP-CIDR,8.251.135.126/32,no-resolve
+  - IP-CIDR,8.251.246.126/32,no-resolve
+# 暴雪战网国服相关
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,leihuo.netease.com
+# FinalShell
+  - IP-CIDR,5.5.5.5/32,no-resolve
+# Akamai CDN
+  - DOMAIN-SUFFIX,akamaihd.net
+# 国内 CDN
+  - DOMAIN-SUFFIX,cjjd19.com
+# UniGetUI
+  - DOMAIN-SUFFIX,powershellgallery.com
+# 嵌入式相关
+  - DOMAIN-SUFFIX,jlcpcb.com
+# ImmortalWrt
+  - DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+  - DOMAIN-SUFFIX,immortalwrt.org
+  - DOMAIN-SUFFIX,vsean.net
+#影视娱乐
   - DOMAIN-SUFFIX,99meiju.cn
   - DOMAIN-SUFFIX,netflixgc.com
   - DOMAIN-SUFFIX,btbtt34.com
@@ -212,5 +254,5 @@ payload:
   - DOMAIN-SUFFIX,wuhenge.com
   - DOMAIN-SUFFIX,legado.aoaostar.com
   - DOMAIN-SUFFIX,bgm.tv
-  # 机场
+ # 机场
   - DOMAIN-SUFFIX,sub.lilisi.me

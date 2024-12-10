@@ -1,5 +1,5 @@
 payload:
-# Router managed 路由器管理域名
+  # Router managed 路由器管理域名
   - DOMAIN,instant.arubanetworks.com
   - DOMAIN,setmeup.arubanetworks.com
   - DOMAIN,router.asus.com
@@ -19,16 +19,50 @@ payload:
   - DOMAIN-SUFFIX,wifi.cmcc
   - DOMAIN-SUFFIX,ikuai8.com
   - DOMAIN-SUFFIX,ikuaios.com
-# NTP Pool Project
+  # NTP Pool Project
   - DOMAIN-SUFFIX,pool.ntp.org
-# Windows 网络连接探测
+  # Windows 网络连接探测
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
-# 拼多多
-  - DOMAIN-SUFFIX,pddpic.com
-  - DOMAIN-SUFFIX,pinduoduo.com
-  - DOMAIN-SUFFIX,yangkeduo.com
-# 自用常用直连网站
+  # Emby 小雅 相关
+  - DOMAIN-SUFFIX,ddsrem.com
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,ggbond.org
+  - DOMAIN-SUFFIX,nn.ci
+  - DOMAIN-SUFFIX,xhofe.top
+  - DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
+  - DOMAIN-SUFFIX,wwwh.eu.org
+  # 暴雪战网国际服下载节点
+  - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+  - DOMAIN-SUFFIX,level3.blizzard.com
+  - DOMAIN-SUFFIX,kr.cdn.blizzard.com
+  - DOMAIN-SUFFIX,us.cdn.blizzard.com
+  - DOMAIN-SUFFIX,eu.cdn.blizzard.com
+  - IP-CIDR,137.221.64.0/24,no-resolve
+  - IP-CIDR,8.251.135.126/32,no-resolve
+  - IP-CIDR,8.251.246.126/32,no-resolve
+  # 暴雪战网国服相关
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,leihuo.netease.com
+  # FinalShell
+  - IP-CIDR,5.5.5.5/32,no-resolve
+  # Akamai CDN
+  - DOMAIN-SUFFIX,akamaihd.net
+  # 公共 CDN
+  - DOMAIN-SUFFIX,ghp.ci
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,fastly.jsdelivr.net
+  - DOMAIN-SUFFIX,unpkg.com
+  # UniGetUI
+  - DOMAIN-SUFFIX,powershellgallery.com
+  # 嵌入式相关
+  - DOMAIN-SUFFIX,jlcpcb.com
+  # ImmortalWrt
+  - DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+  - DOMAIN-SUFFIX,immortalwrt.org
+  - DOMAIN-SUFFIX,vsean.net
+  # 自用常用直连网站
   - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,flac.life
   - DOMAIN-SUFFIX,spfnas.cc
@@ -159,7 +193,6 @@ payload:
   - DOMAIN-SUFFIX,mls-cdn.com
   - DOMAIN-SUFFIX,myzaker.com
   - DOMAIN-SUFFIX,nim-lang-cn.org
-  - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,qweather.com
@@ -191,48 +224,9 @@ payload:
   - DOMAIN-KEYWORD,maccms.la
   - DOMAIN-KEYWORD,seacms.net
   - DOMAIN-SUFFIX,kit327.com
-# Emby 小雅 相关
-  - DOMAIN-SUFFIX,ddsrem.com
-  - DOMAIN-SUFFIX,ipinfo.io
-  - DOMAIN-SUFFIX,ggbond.org
-  - DOMAIN-SUFFIX,nn.ci
-  - DOMAIN-SUFFIX,xhofe.top
-  - DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
-  - DOMAIN-SUFFIX,wwwh.eu.org
-# 暴雪战网国际服下载节点
-  - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
-  - DOMAIN-SUFFIX,level3.blizzard.com
-  - DOMAIN-SUFFIX,kr.cdn.blizzard.com
-  - DOMAIN-SUFFIX,us.cdn.blizzard.com
-  - DOMAIN-SUFFIX,eu.cdn.blizzard.com
-  - IP-CIDR,137.221.64.0/24,no-resolve
-  - IP-CIDR,8.251.135.126/32,no-resolve
-  - IP-CIDR,8.251.246.126/32,no-resolve
-# 暴雪战网国服相关
-  - DOMAIN-SUFFIX,netease.com
-  - DOMAIN-SUFFIX,leihuo.netease.com
-# FinalShell
-  - IP-CIDR,5.5.5.5/32,no-resolve
-# Akamai CDN
-  - DOMAIN-SUFFIX,akamaihd.net
-# 国内 CDN
-  - DOMAIN-SUFFIX,cjjd19.com
-# UniGetUI
-  - DOMAIN-SUFFIX,powershellgallery.com
-# 嵌入式相关
-  - DOMAIN-SUFFIX,jlcpcb.com
-# ImmortalWrt
-  - DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
-  - DOMAIN-SUFFIX,immortalwrt.org
-  - DOMAIN-SUFFIX,vsean.net
-#影视娱乐
+  #影视娱乐
   - DOMAIN-SUFFIX,99meiju.cn
   - DOMAIN-SUFFIX,netflixgc.com
-  - DOMAIN-SUFFIX,btbtt34.com
-  - DOMAIN-SUFFIX,btbtt32.com
-  - DOMAIN-SUFFIX,btbtt28.com
-  - DOMAIN-SUFFIX,btbtt27.com
-  - DOMAIN-SUFFIX,btbtt13.com
   - DOMAIN-SUFFIX,1lou.me
   - DOMAIN-SUFFIX,ysscj.com
   - DOMAIN-SUFFIX,gaoqing.la
@@ -254,5 +248,5 @@ payload:
   - DOMAIN-SUFFIX,wuhenge.com
   - DOMAIN-SUFFIX,legado.aoaostar.com
   - DOMAIN-SUFFIX,bgm.tv
- # 机场
+   # 机场
   - DOMAIN-SUFFIX,sub.lilisi.me

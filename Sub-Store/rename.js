@@ -118,7 +118,7 @@ const rurekey = {
   捷克: /捷克共和国|Prague/g,
   台湾: /新台|新北|台(?!.*线)/g,
   Taiwan: /Taipei/g,
-  🇰🇷韩国: /春川|韩|首尔|Incheon|Seoul/g,
+  韩国: /春川|韩|首尔|Incheon|Seoul/g,
   Japan: /Tokyo|Osaka/g,
   英国: /英格兰|伦敦/g,
   India: /Mumbai|Bangalore/g,

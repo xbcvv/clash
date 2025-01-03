@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,lusthive.org
 DOMAIN-SUFFIX,hdclone.org
 DOMAIN-SUFFIX,ptzone.xyz
+DOMAIN-SUFFIX,czhch.com
 # 劳改所
 DOMAIN-SUFFIX,ptlgs.org
 # 浦园PT
@@ -59,7 +60,7 @@ DOMAIN-SUFFIX,1ptba.com
 # 2Xfree
 DOMAIN-SUFFIX,2xfree.org
 # 观众
-# DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,audiences.me
 # 梓喵
 DOMAIN-SUFFIX,azusa.wiki
 # 学校
@@ -263,8 +264,6 @@ DOMAIN-SUFFIX,ipt.octopus.town
 DOMAIN-SUFFIX,torrentleech.cc
 DOMAIN-SUFFIX,torrentleech.me
 DOMAIN-SUFFIX,tlgetin.cc
-# 未知
-DOMAIN-SUFFIX,czhch.com
 # 图床
 DOMAIN-SUFFIX,freeimage.host
 DOMAIN-SUFFIX,iili.io

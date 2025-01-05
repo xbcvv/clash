@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,lusthive.org
 DOMAIN-SUFFIX,hdclone.org
 DOMAIN-SUFFIX,ptzone.xyz
 DOMAIN-SUFFIX,czhch.com
+# DOMAIN-SUFFIX,pt.gtk.pw
 # 劳改所
 DOMAIN-SUFFIX,ptlgs.org
 # 浦园PT
@@ -47,8 +48,6 @@ DOMAIN-SUFFIX,hdroute.org
 DOMAIN-SUFFIX,leaves.red
 # 0day.pt
 DOMAIN-SUFFIX,pt.6a6b.com
-# PT GTK
-DOMAIN-SUFFIX,pt.gtk.pw
 # 麒麟
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,hdkylin.top

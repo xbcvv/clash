@@ -1,6 +1,4 @@
 payload:
-# PT 下载相关
-DOMAIN-KEYWORD,tracker
 # 国内大部分PT站及国外小部分
 DOMAIN-SUFFIX,okfun.org
 DOMAIN-SUFFIX,kimoji.club
@@ -295,3 +293,5 @@ DOMAIN-SUFFIX,ptpimg.me
 DOMAIN-SUFFIX,imgdb.cn
 DOMAIN-SUFFIX,netok.xyz
 DOMAIN-SUFFIX,img.ptdream.net
+# PT 下载相关
+DOMAIN-KEYWORD,tracker

@@ -14,9 +14,11 @@ payload:
  - DOMAIN-SUFFIX,ptfans.cc
  - DOMAIN-SUFFIX,lusthive.org
  - DOMAIN-SUFFIX,hdclone.org
- - DOMAIN-SUFFIX,ptlgs.org
  - DOMAIN-SUFFIX,ptzone.xyz
  - DOMAIN-SUFFIX,ptlover.cc
+ # 劳改所
+ - DOMAIN-SUFFIX,ptlgs.org
+ - DOMAIN-SUFFIX,ptl.gs
  # 新柠檬
  - DOMAIN-SUFFIX,lemonhd.club
  - DOMAIN-SUFFIX,ilovelemonhd.me

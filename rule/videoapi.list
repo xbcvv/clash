@@ -51,6 +51,16 @@ DOMAIN-SUFFIX,bfzy.tv
 DOMAIN-SUFFIX,vipuuvip.com
 DOMAIN-SUFFIX,rrcdnbf3.com
 DOMAIN-SUFFIX,bfzyapi.com
+#豆瓣资源
+DOMAIN-SUFFIX,dbzy.tv
+DOMAIN-SUFFIX,dbzy.com
+DOMAIN-SUFFIX,doubanzy.net
+DOMAIN-SUFFIX,doubanzy.cc
+DOMAIN-SUFFIX,doubanziyuan.net
+DOMAIN-SUFFIX,doubanziyuan.com
+DOMAIN-SUFFIX,dbjiexi.com
+DOMAIN-SUFFIX,dbzy1.com
+DOMAIN-SUFFIX,ktprods.com
 #金鹰
 DOMAIN-SUFFIX,jinyingzy.com
 DOMAIN-SUFFIX,jinyingzy.net
@@ -200,10 +210,6 @@ DOMAIN-SUFFIX,yycmszyw.com
 DOMAIN-SUFFIX,yycmszywapi.cc
 DOMAIN-SUFFIX,yycmszywtu.cc
 DOMAIN-SUFFIX,yycmszywbf.cc
-#好色视频
-DOMAIN-SUFFIX,haosezyw.com
-DOMAIN-SUFFIX,haosezycdnshipin.com
-DOMAIN-SUFFIX,haosezycdnimg.com
 #森林
 DOMAIN-SUFFIX,senlinzy.com
 DOMAIN-SUFFIX,slapibf.com

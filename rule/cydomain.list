@@ -71,8 +71,7 @@ IP-CIDR,5.5.5.5/32,no-resolve
 # Akamai CDN
 DOMAIN-SUFFIX,akamaihd.net
 # 公共 CDN
-DOMAIN-SUFFIX,ghp.ci
-DOMAIN-SUFFIX,mirror.ghproxy.com
+DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
 DOMAIN-SUFFIX,unpkg.com

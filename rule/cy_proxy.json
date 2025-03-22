@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "dns.google",
+        "1dot1dot1dot1.cloudflare-dns.com",
+        "dot.sb",
+        "dns.umbrella.com",
+        "dns.quad9.net",
+        "cloudflare-dns.com",
+        "doh.dns.sb",
+        "doh.opendns.com",
+        "hk-hkg.doh.sb",
+        "services.googleapis.cn",
+        "clientservices.googleapis.com",
+        "googleapis.cn",
+        "xn--ngstr-lra8j.com",
+        "stun.playstation.net",
+        "arduino.cc",
+        "guanxi.cloudns.be",
+        "qichiyu.com",
+        "platformio.org"
+      ]
+    }
+  ]
+}

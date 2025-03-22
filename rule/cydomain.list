@@ -239,7 +239,6 @@ DOMAIN-SUFFIX,feizhupan.com
 DOMAIN-SUFFIX,hope140.cc
 DOMAIN-SUFFIX,api.hope140.cc
 DOMAIN-SUFFIX,api.hope140.ga
-DOMAIN-KEYWORD,edu.cn
 DOMAIN-KEYWORD,iycms.com
 DOMAIN-KEYWORD,maccms.la
 DOMAIN-KEYWORD,seacms.net
@@ -270,5 +269,3 @@ DOMAIN-SUFFIX,legado.aoaostar.com
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,duokan.club
 DOMAIN-SUFFIX,xlys01.com
-# 机场
-DOMAIN-SUFFIX,sub.lilisi.me

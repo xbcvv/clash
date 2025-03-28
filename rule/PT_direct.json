@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "bilibili.download",
         "tu88.men",
         "ptneko.com",
         "hdroute.org",

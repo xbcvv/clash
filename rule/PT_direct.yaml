@@ -16,6 +16,8 @@ payload:
  - DOMAIN-SUFFIX,hdclone.org
  - DOMAIN-SUFFIX,ptzone.xyz
  - DOMAIN-SUFFIX,ptlover.cc
+ #柠檬不甜
+ - DOMAIN-SUFFIX,lemonhd.net
  # RailgunPT
  - DOMAIN-SUFFIX,bilibili.download
  # 劳改所

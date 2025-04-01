@@ -1,26 +1,3 @@
-# 代理补充列表
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,1e100
-
-# 国外DNS
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN-SUFFIX,dot.sb
-DOMAIN-SUFFIX,dns.umbrella.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,doh.dns.sb
-DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,hk-hkg.doh.sb
-
-# PS5 STUN
-DOMAIN-SUFFIX,stun.playstation.net
-
-# 嵌入式相关
-DOMAIN-SUFFIX,platformio.org
-DOMAIN-SUFFIX,arduino.cc
-
 # 需要代理的其它网站
 DOMAIN-SUFFIX,guanxi.cloudns.be
 DOMAIN-SUFFIX,workers.dev

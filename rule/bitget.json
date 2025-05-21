@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "rules": [
+    {
+      "domain_suffix": [
+         "bitget.com",
+		 "bitgetapps.com",
+         "bitgetcdn.com",
+         "bitgetapi.com",
+		 "auth0.com"
+        ]
+    }
+  ]
+}

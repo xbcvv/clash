@@ -1,8 +1,0 @@
-.list文件是用于subconfig.ini订阅配置文件，不长更新；
-
-.yaml自己用于openclash
-
-.json和.srs用于singbox，研究中……
-
-cydomain.json=cydomain.srs，包含：cydomain.yaml、talkatone.yaml需直连的节点
-cyproxy.json=cyproxy.srs，包含：PT_proxy.yaml、talkatone.yaml需代理的节点及其它自用代理节点

@@ -68,21 +68,6 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,leihuo.netease.com
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
-# Akamai CDN
-DOMAIN-SUFFIX,akamaihd.net
-# 公共 CDN
-DOMAIN-SUFFIX,ghfast.top
-DOMAIN-SUFFIX,cdn.jsdelivr.net
-DOMAIN-SUFFIX,fastly.jsdelivr.net
-DOMAIN-SUFFIX,unpkg.com
-# UniGetUI
-DOMAIN-SUFFIX,powershellgallery.com
-# 嵌入式相关
-DOMAIN-SUFFIX,jlcpcb.com
-# ImmortalWrt
-DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
-DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,vsean.net
 # 自用常用直连网站
 DOMAIN-SUFFIX,flac.life
 DOMAIN-SUFFIX,spfnas.cc

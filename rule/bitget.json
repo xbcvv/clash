@@ -4,10 +4,10 @@
     {
       "domain_suffix": [
          "bitget.com",
-		 "bitgetapps.com",
+	 "bitgetapps.com",
          "bitgetcdn.com",
          "bitgetapi.com",
-		 "auth0.com"
+	 "auth0.com"
         ]
     }
   ]

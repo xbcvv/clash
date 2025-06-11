@@ -3,7 +3,6 @@
     "rules": [
     {
       "domain_suffix": [
-         "fsm.name",
          "avistaz.to",
          "torrentleech.org"
         ]

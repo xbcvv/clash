@@ -9,7 +9,6 @@ payload:
  - DOMAIN-SUFFIX,dhtclub.com
  - DOMAIN-SUFFIX,oldtoons.world
  - DOMAIN-SUFFIX,redacted.ch
- - DOMAIN-SUFFIX,kelu.one
  - DOMAIN-SUFFIX,ianon.app
  - DOMAIN-SUFFIX,ptfans.cc
  - DOMAIN-SUFFIX,lusthive.org
@@ -48,7 +47,7 @@ payload:
  # 路
  - DOMAIN-SUFFIX,hdroute.org
  # 红叶
- - DOMAIN-SUFFIX,leaves.red
+ #- DOMAIN-SUFFIX,leaves.red
  # 0day.pt
  - DOMAIN-SUFFIX,pt.6a6b.com
  # PT GTK
@@ -99,13 +98,13 @@ payload:
  - DOMAIN-SUFFIX,hdarea.club
  - DOMAIN-SUFFIX,hdarea.co
  # HDAtmos 阿童木
- - DOMAIN-SUFFIX,hdatmos.club
+ #- DOMAIN-SUFFIX,hdatmos.club
  # HDFans
  - DOMAIN-SUFFIX,hdfans.org
  # HDFun
  - DOMAIN-SUFFIX,hdfun.me
  # 蚂蚁
- - DOMAIN-SUFFIX,hdmayi.com
+ #- DOMAIN-SUFFIX,hdmayi.com
  # 普斯特
  - DOMAIN-SUFFIX,hdpost.top
  # 高清时间
@@ -134,7 +133,7 @@ payload:
  # 猪猪
  - DOMAIN-SUFFIX,piggo.me
  # 咖啡
- - DOMAIN-SUFFIX,ptcafe.club
+ #- DOMAIN-SUFFIX,ptcafe.club
  # 铂金学院
  - DOMAIN-SUFFIX,ptchina.org
  # PTHOME 铂金家

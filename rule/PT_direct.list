@@ -9,15 +9,15 @@ DOMAIN-SUFFIX,lemonhd.net
 # RailgunPT
 DOMAIN-SUFFIX,bilibili.download
 # 伞
-DOMAIN-SUFFIX,sanpro.pw
+#DOMAIN-SUFFIX,sanpro.pw
 # 唐门
-DOMAIN-SUFFIX,tmpt.top
+#DOMAIN-SUFFIX,tmpt.top
 # 回声
-DOMAIN-SUFFIX,hspt.club
+#DOMAIN-SUFFIX,hspt.club
 # 财神
 DOMAIN-SUFFIX,cspt.top
 # 星陨阁
-DOMAIN-SUFFIX,xingyunge.top
+#DOMAIN-SUFFIX,xingyunge.top
 # Sunny
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,sunnytk.top
@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,pt.cdfile.org
 # ToSky
 DOMAIN-SUFFIX,tosky.club
 # 红叶
-DOMAIN-SUFFIX,leaves.red
+#DOMAIN-SUFFIX,leaves.red
 # Free Farm 自由农场
 DOMAIN-SUFFIX,0ff.cc
 # 1PTBA 壹PT
@@ -107,7 +107,7 @@ DOMAIN-SUFFIX,pandapt.net
 # 猪猪
 DOMAIN-SUFFIX,piggo.me
 # 咖啡
-DOMAIN-SUFFIX,ptcafe.club
+#DOMAIN-SUFFIX,ptcafe.club
 # 铂金学院
 DOMAIN-SUFFIX,ptchina.org
 # PTHOME 铂金家
@@ -137,9 +137,9 @@ DOMAIN-SUFFIX,zhuque.in
 # 织梦
 DOMAIN-SUFFIX,zmpt.cc
 # 花梨月下
-DOMAIN-SUFFIX,ecustpt.eu.org
-DOMAIN-SUFFIX,pt.ecust.pp.ua
-DOMAIN-SUFFIX,maintenance.ecust.pp.ua
+#DOMAIN-SUFFIX,ecustpt.eu.org
+#DOMAIN-SUFFIX,pt.ecust.pp.ua
+#DOMAIN-SUFFIX,maintenance.ecust.pp.ua
 # 海棠
 DOMAIN-SUFFIX,htpt.cc
 # 蟹黄堡

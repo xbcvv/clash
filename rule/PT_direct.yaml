@@ -17,6 +17,7 @@ payload:
  - DOMAIN-SUFFIX,ptlover.cc
  - DOMAIN-SUFFIX,ptskit.com
  - DOMAIN-SUFFIX,ptskit.org
+ - DOMAIN-SUFFIX,pt.xingyungept.org
  #柠檬不甜
  - DOMAIN-SUFFIX,lemonhd.net
  # RailgunPT

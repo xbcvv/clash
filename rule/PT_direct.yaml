@@ -18,8 +18,8 @@ payload:
  - DOMAIN-SUFFIX,ptskit.com
  - DOMAIN-SUFFIX,ptskit.org
  # 星陨阁
- - DOMAIN-SUFFIX,pt.xingyungept.org
- - DOMAIN-SUFFIX,xingyunge.top
+ #- DOMAIN-SUFFIX,pt.xingyungept.org
+ #- DOMAIN-SUFFIX,xingyunge.top
  # 柠檬不甜
  - DOMAIN-SUFFIX,lemonhd.net
  # RailgunPT

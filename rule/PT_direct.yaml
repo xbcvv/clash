@@ -17,8 +17,10 @@ payload:
  - DOMAIN-SUFFIX,ptlover.cc
  - DOMAIN-SUFFIX,ptskit.com
  - DOMAIN-SUFFIX,ptskit.org
+ # 星陨阁
  - DOMAIN-SUFFIX,pt.xingyungept.org
- #柠檬不甜
+ - DOMAIN-SUFFIX,xingyunge.top
+ # 柠檬不甜
  - DOMAIN-SUFFIX,lemonhd.net
  # RailgunPT
  - DOMAIN-SUFFIX,bilibili.download

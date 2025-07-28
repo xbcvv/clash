@@ -18,7 +18,8 @@ DOMAIN-SUFFIX,bilibili.download
 # 财神
 DOMAIN-SUFFIX,cspt.top
 # 星陨阁
-#DOMAIN-SUFFIX,xingyunge.top
+DOMAIN-SUFFIX,xingyunge.top
+DOMAIN-SUFFIX,pt.xingyungept.org
 # Sunny
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,sunnytk.top

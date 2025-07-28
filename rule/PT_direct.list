@@ -10,16 +10,16 @@ DOMAIN-SUFFIX,lemonhd.net
 # RailgunPT
 DOMAIN-SUFFIX,bilibili.download
 # 伞
-#DOMAIN-SUFFIX,sanpro.pw
+DOMAIN-SUFFIX,sanpro.pw
 # 唐门
 #DOMAIN-SUFFIX,tmpt.top
 # 回声
-#DOMAIN-SUFFIX,hspt.club
+DOMAIN-SUFFIX,hspt.club
 # 财神
 DOMAIN-SUFFIX,cspt.top
 # 星陨阁
-DOMAIN-SUFFIX,xingyunge.top
-DOMAIN-SUFFIX,pt.xingyungept.org
+#DOMAIN-SUFFIX,xingyunge.top
+#DOMAIN-SUFFIX,pt.xingyungept.org
 # Sunny
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,sunnytk.top

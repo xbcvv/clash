@@ -1,11 +1,14 @@
+# Bitget
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitgetapps.com
 DOMAIN-SUFFIX,bitgetcdn.com
 DOMAIN-SUFFIX,bitgetapi.com
 DOMAIN-SUFFIX,auth0.com
+# Coinget
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,coinget.info
 DOMAIN-SUFFIX,cryptostrategyget.com
 DOMAIN-SUFFIX,react-native.cn
 DOMAIN-SUFFIX,meiqia.com
 DOMAIN-SUFFIX,vod-pro.com
+

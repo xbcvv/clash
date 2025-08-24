@@ -11,5 +11,8 @@ DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
 # fanart
 DOMAIN-SUFFIX,fanart.tv
+# tradingview
+DOMAIN-SUFFIX,tradingview.com
+
 
 

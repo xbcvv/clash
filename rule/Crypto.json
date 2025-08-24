@@ -3,21 +3,23 @@
     "rules": [
     {
       "domain_suffix": [
-         "bitget.com",
-	 "bitgetapps.com",
-         "bitgetcdn.com",
-         "bitgetapi.com",
-	 "auth0.com",
-	 "app-measurement.com",
-	 "coinget.info",
-	 "cryptostrategyget.com",
-	 "react-native.cn",
-	 "meiqia.com",
-	 "vod-pro.com",
-	 "tradingview.com",
+      "bitget.com",
+	  "bitgetapps.com",
+      "bitgetcdn.com",
+      "bitgetapi.com",
+	  "auth0.com",
+	  "app-measurement.com",
+	  "coinget.info",
+	  "cryptostrategyget.com",
+	  "react-native.cn",
+	  "meiqia.com",
+	  "vod-pro.com",
+      "fanart.tv",
+	  "tradingview.com"
         ]
     }
   ]
 }
+
 
 

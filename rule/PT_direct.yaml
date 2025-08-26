@@ -18,6 +18,8 @@ payload:
  - DOMAIN-SUFFIX,ptskit.com
  - DOMAIN-SUFFIX,ptskit.org
  - DOMAIN-SUFFIX,mypt.cc
+ # 藏宝阁
+ - DOMAIN-SUFFIX,cangbao.ge
  # 星陨阁
  #- DOMAIN-SUFFIX,pt.xingyungept.org
  #- DOMAIN-SUFFIX,xingyunge.top
@@ -303,4 +305,5 @@ payload:
  - DOMAIN-SUFFIX,ptpimg.me
  - DOMAIN-SUFFIX,imgdb.cn
  - DOMAIN-SUFFIX,netok.xyz
+
 

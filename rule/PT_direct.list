@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,ptskit.com
 DOMAIN-SUFFIX,ptskit.org
 DOMAIN-SUFFIX,mypt.cc
+DOMAIN-SUFFIX,yhpp.cc
 #藏宝阁
 DOMAIN-SUFFIX,cangbao.ge
 #柠檬不甜
@@ -319,5 +320,6 @@ DOMAIN-SUFFIX,netok.xyz
 DOMAIN-SUFFIX,img.ptdream.net
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
+
 
 

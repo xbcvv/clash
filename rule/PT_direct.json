@@ -2,13 +2,23 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "ptskit.com",        
+      "domain_suffix": [  
+        "13city.org", 
+        "gtkpw.xyz", 
+        "novahd.top", 
+        "dubhe.site", 
+        "torrenthub.club", 
+        "bilibili.download", 
+        "lajidui.top", 
+        "jivon.de", 
+        "sbpt.link", 
+        "aling.de",  
         "yhpp.cc",
         "si-qi.xyz",
         "cangbao.ge",
         "mypt.cc",
         "ptskit.org",
+        "ptskit.com",     
         "pt.xingyungept.org",
         "xingyunge.top",
         "ptcafe.club",
@@ -192,6 +202,7 @@
     }
   ]
 }
+
 
 
 

@@ -20,6 +20,16 @@ payload:
  - DOMAIN-SUFFIX,mypt.cc
  - DOMAIN-SUFFIX,yhpp.cc
  - DOMAIN-SUFFIX,si-qi.xyz
+ - DOMAIN-SUFFIX,13city.org
+ - DOMAIN-SUFFIX,gtkpw.xyz
+ - DOMAIN-SUFFIX,novahd.top
+ - DOMAIN-SUFFIX,dubhe.site
+ - DOMAIN-SUFFIX,torrenthub.club
+ - DOMAIN-SUFFIX,bilibili.download
+ - DOMAIN-SUFFIX,lajidui.top
+ - DOMAIN-SUFFIX,jivon.de
+ - DOMAIN-SUFFIX,sbpt.link
+ - DOMAIN-SUFFIX,aling.de
  # 藏宝阁
  - DOMAIN-SUFFIX,cangbao.ge
  # 星陨阁
@@ -307,6 +317,7 @@ payload:
  - DOMAIN-SUFFIX,ptpimg.me
  - DOMAIN-SUFFIX,imgdb.cn
  - DOMAIN-SUFFIX,netok.xyz
+
 
 
 

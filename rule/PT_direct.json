@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "ptskit.com",
+        "ptskit.com",        
+        "yhpp.cc",
+        "si-qi.xyz",
         "cangbao.ge",
         "mypt.cc",
         "ptskit.org",
@@ -190,5 +192,6 @@
     }
   ]
 }
+
 
 

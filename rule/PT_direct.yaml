@@ -198,6 +198,7 @@ payload:
  - DOMAIN-SUFFIX,ourbits.club
  # 猫站
  - DOMAIN-SUFFIX,pterclub.com
+ - DOMAIN-SUFFIX,pterclub.net
  # TTG
  - DOMAIN-SUFFIX,totheglory.im
  # 学校
@@ -316,6 +317,7 @@ payload:
  - DOMAIN-SUFFIX,ptpimg.me
  - DOMAIN-SUFFIX,imgdb.cn
  - DOMAIN-SUFFIX,netok.xyz
+
 
 
 

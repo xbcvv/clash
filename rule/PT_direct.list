@@ -234,6 +234,7 @@ DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,keepfrds.com
 # 猫站
 DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pterclub.net
 # 馒头
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
@@ -331,6 +332,7 @@ DOMAIN-SUFFIX,netok.xyz
 DOMAIN-SUFFIX,img.ptdream.net
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
+
 
 
 

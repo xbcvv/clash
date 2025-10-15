@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "infini.money",
         "dns.google",
         "1dot1dot1dot1.cloudflare-dns.com",
         "dot.sb",
@@ -31,6 +32,7 @@
     }
   ]
 }
+
 
 
 

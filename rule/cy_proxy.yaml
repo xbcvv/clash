@@ -17,12 +17,14 @@ payload:
  - DOMAIN-SUFFIX,workers.dev
  - DOMAIN-SUFFIX,qichiyu.com
  - DOMAIN-SUFFIX,rgergergergerg6555.saojc.xyz
+ - DOMAIN-SUFFIX,infini.money
 # imdb
  - DOMAIN-SUFFIX,imdb
  - DOMAIN-SUFFIX,boxofficemojo.com
  - DOMAIN-SUFFIX,imdb.com
  - DOMAIN-SUFFIX,imdb.to
  - DOMAIN-SUFFIX,media-imdb.com
+
 
 
 

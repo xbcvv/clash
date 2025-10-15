@@ -1,4 +1,5 @@
 # 需要代理的其它网站
+DOMAIN-SUFFIX,infini.money
 DOMAIN-SUFFIX,guanxi.cloudns.be
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,qichiyu.com
@@ -9,6 +10,7 @@ DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
+
 
 
 

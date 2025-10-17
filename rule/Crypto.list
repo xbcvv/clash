@@ -15,5 +15,9 @@ DOMAIN-SUFFIX,vod-pro.com
 DOMAIN-SUFFIX,fanart.tv
 # tradingview
 DOMAIN-SUFFIX,tradingview.com
+# Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycsi.com
+
 
 

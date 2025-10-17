@@ -3,6 +3,8 @@
     "rules": [
     {
       "domain_suffix": [
+      "bybit.com",
+      "bycsi.com",
       "bitget.com",
 	  "bitgetapps.com",
       "bitgetcdn.com",
@@ -20,6 +22,7 @@
     }
   ]
 }
+
 
 
 

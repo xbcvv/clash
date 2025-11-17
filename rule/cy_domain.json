@@ -10,7 +10,7 @@
         "v1.dogapi.yachts"
       ],
       "domain_suffix": [
-	"acl4.ssr",
+	    "acl4.ssr",
         "ip6-localhost",
         "ip6-loopback",
         "lan",
@@ -214,8 +214,9 @@
         "4ksg.com",
         "bbqddq.com",
         "HDBTHD.com",
+		"WHATMV.com",
+		"baidubaidu.win",
         "doutoutiao.cc",
-        "windows.baidubaidu.win",
         "seedhub.info",
         "hoho.tv",
         "zimuku.org",
@@ -227,8 +228,13 @@
         "bgm.tv",
         "duokan.club",
         "xlys01.com",
+        "hdsay.net",
+        "xiukee.net",
+        "xiuker.net",
+        "xiukor.net",
         "sub.lilisi.me"
       ]
     }
   ]
 }
+

@@ -238,8 +238,9 @@ payload:
   - DOMAIN-SUFFIX,4ksg.com
   - DOMAIN-SUFFIX,bbqddq.com
   - DOMAIN-SUFFIX,HDBTHD.com
+  - DOMAIN-SUFFIX,WHATMV.com
   - DOMAIN-SUFFIX,doutoutiao.cc
-  - DOMAIN-SUFFIX,windows.baidubaidu.win
+  - DOMAIN-SUFFIX,baidubaidu.win
   - DOMAIN-SUFFIX,seedhub.info
   - DOMAIN-SUFFIX,hoho.tv
   - DOMAIN-SUFFIX,zimuku.org
@@ -250,5 +251,10 @@ payload:
   - DOMAIN-SUFFIX,legado.aoaostar.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,duokan.club
+  - DOMAIN-SUFFIX,hdsay.net
+  - DOMAIN-SUFFIX,xiukee.net
+  - DOMAIN-SUFFIX,xiuker.net
+  - DOMAIN-SUFFIX,xiukor.net
    # 机场
   - DOMAIN-SUFFIX,sub.lilisi.me
+

@@ -13,6 +13,7 @@ payload:
  - DOMAIN-SUFFIX,ptfans.cc
  - DOMAIN-SUFFIX,lusthive.org
  - DOMAIN-SUFFIX,hdclone.org
+ - DOMAIN-SUFFIX,hdclone.top
  - DOMAIN-SUFFIX,ptzone.xyz
  - DOMAIN-SUFFIX,ptlover.cc
  - DOMAIN-SUFFIX,ptskit.com
@@ -317,6 +318,7 @@ payload:
  - DOMAIN-SUFFIX,ptpimg.me
  - DOMAIN-SUFFIX,imgdb.cn
  - DOMAIN-SUFFIX,netok.xyz
+
 
 
 

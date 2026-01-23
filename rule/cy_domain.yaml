@@ -224,7 +224,8 @@ payload:
   - DOMAIN-KEYWORD,iycms.com
   - DOMAIN-KEYWORD,maccms.la
   - DOMAIN-KEYWORD,seacms.net
-  - DOMAIN-SUFFIX,kit327.com
+  - DOMAIN-SUFFIX,kit327.com  
+  - DOMAIN-SUFFIX,081111.xyz
   #影视娱乐
   - DOMAIN-SUFFIX,99meiju.cn
   - DOMAIN-SUFFIX,netflixgc.com
@@ -257,4 +258,5 @@ payload:
   - DOMAIN-SUFFIX,xiukor.net
    # 机场
   - DOMAIN-SUFFIX,sub.lilisi.me
+
 

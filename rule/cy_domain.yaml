@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,vsean.net
   # 自用常用直连网站
+  - DOMAIN-SUFFIX,7me.dpdns.org
   - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,flac.life
   - DOMAIN-SUFFIX,spfnas.cc
@@ -258,5 +259,6 @@ payload:
   - DOMAIN-SUFFIX,xiukor.net
    # 机场
   - DOMAIN-SUFFIX,sub.lilisi.me
+
 
 

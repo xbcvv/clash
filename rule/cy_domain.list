@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,leihuo.netease.com
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
 # 自用常用直连网站
+DOMAIN-SUFFIX,7me.dpdns.org
 DOMAIN-SUFFIX,flac.life
 DOMAIN-SUFFIX,spfnas.cc
 DOMAIN-SUFFIX,tianapi.com
@@ -261,5 +262,6 @@ DOMAIN-SUFFIX,hdsay.net
 DOMAIN-SUFFIX,xiukee.net
 DOMAIN-SUFFIX,xiuker.net
 DOMAIN-SUFFIX,xiukor.net
+
 
 

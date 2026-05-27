@@ -46,14 +46,110 @@ DOMAIN-SUFFIX,pool.ntp.org
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
-# Emby 小雅 相关
-DOMAIN-SUFFIX,ddsrem.com
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ggbond.org
-DOMAIN-SUFFIX,nn.ci
-DOMAIN-SUFFIX,xhofe.top
-DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
-DOMAIN-SUFFIX,wwwh.eu.org
+
+
+# 银行登录修复：风控安全 SDK（必须直连，否则银行 APP 登录验证可能失败）
+DOMAIN-SUFFIX,tongdun.net           # 同盾科技 反欺诈
+DOMAIN-SUFFIX,tongduncdn.com        # 同盾 CDN
+DOMAIN-SUFFIX,ishumei.com           # 数美科技 风控
+DOMAIN-SUFFIX,riskradar.net         # 数美 风险雷达
+DOMAIN-SUFFIX,geetest.com           # 极验 验证码/行为验证
+DOMAIN-SUFFIX,dingxiangyun.com      # 顶象科技 设备指纹
+DOMAIN-SUFFIX,dingxiangyun.cn       # 顶象科技
+DOMAIN-SUFFIX,trustdevice.net       # TrustDevice 设备风控
+DOMAIN-SUFFIX,aegis.qq.com          # 腾讯安全 鹰眼
+DOMAIN-SUFFIX,antpay.com            # 蚂蚁支付安全
+DOMAIN-SUFFIX,rong360.com           # 百融云创
+
+# 银行APP推送/统计服务（不直连会导致部分银行APP无法收到验证码推送）
+DOMAIN-SUFFIX,jiguang.cn            # 极光推送
+DOMAIN-SUFFIX,jpush.cn              # 极光推送
+DOMAIN-SUFFIX,jpush.io              # 极光推送
+DOMAIN-SUFFIX,umeng.com             # 友盟统计
+DOMAIN-SUFFIX,umengcloud.com        # 友盟云
+DOMAIN-SUFFIX,rongcloud.cn          # 融云IM（多家银行APP使用）
+DOMAIN-SUFFIX,rongcloud.com         # 融云
+
+# 国内银行域名
+DOMAIN-KEYWORD,bank
+DOMAIN-SUFFIX,95516.com             # 银联客服
+DOMAIN-SUFFIX,unionpay.com          # 银联
+DOMAIN-SUFFIX,unionpaysecure.com    # 银联安全
+DOMAIN-SUFFIX,icbc.com.cn           # 工商银行
+DOMAIN-SUFFIX,ccb.com               # 建设银行
+DOMAIN-SUFFIX,ccblife.com           # 建行生活
+DOMAIN-SUFFIX,boc.cn                # 中国银行
+DOMAIN-SUFFIX,abchina.com           # 农业银行
+DOMAIN-SUFFIX,psbc.com              # 邮储银行
+DOMAIN-SUFFIX,bankcomm.com          # 交通银行
+DOMAIN-SUFFIX,cmbchina.com          # 招商银行
+DOMAIN-SUFFIX,spdb.com.cn           # 浦发银行
+DOMAIN-SUFFIX,cib.com.cn            # 兴业银行
+DOMAIN-SUFFIX,cebbank.com           # 光大银行
+DOMAIN-SUFFIX,pingan.com            # 平安银行
+DOMAIN-SUFFIX,pingan.com.cn         # 平安
+DOMAIN-SUFFIX,cmbwinglungbank.com   # 招商永隆
+DOMAIN-SUFFIX,cmbc.com.cn           # 民生银行
+DOMAIN-SUFFIX,cgbchina.com.cn       # 广发银行
+DOMAIN-SUFFIX,hxb.com.cn            # 华夏银行
+DOMAIN-SUFFIX,bankofshanghai.com    # 上海银行
+DOMAIN-SUFFIX,shrcb.com             # 上海农商行
+DOMAIN-SUFFIX,gzcb.com.cn           # 广州银行
+DOMAIN-SUFFIX,nbcb.com.cn           # 宁波银行
+DOMAIN-SUFFIX,njcb.com.cn           # 南京银行
+DOMAIN-SUFFIX,cqrcb.com             # 重庆农商行
+DOMAIN-SUFFIX,brcb.com.cn           # 北京农商行
+DOMAIN-SUFFIX,czbank.com            # 浙商银行
+DOMAIN-SUFFIX,hkbchina.com          # 汉口银行
+DOMAIN-SUFFIX,bocd.com.cn           # 东莞银行
+DOMAIN-SUFFIX,bocsh.com             # 中银上海
+DOMAIN-SUFFIX,srcb.com.cn           # 深圳农商行
+DOMAIN-SUFFIX,gdb.com.cn            # 广东发展银行（广发旧域名）
+DOMAIN-SUFFIX,zzbank.cc             # 枣庄银行
+DOMAIN-SUFFIX,jn-bank.com           # 济宁银行
+DOMAIN-SUFFIX,whccb.com             # 威海银行
+
+# 政务 / 公共服务
+DOMAIN-SUFFIX,12315.cn
+DOMAIN-SUFFIX,12315.gov.cn
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-KEYWORD,12315
+DOMAIN-KEYWORD,gjzwfw
+DOMAIN-KEYWORD,12306
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,govapp.cn
+
+# --- 运营商 ---
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,chinaunicom.com
+DOMAIN-SUFFIX,chinatelecom.com.cn
+
+# --- 小米生态 ---
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,miot-spec.com
+DOMAIN-SUFFIX,io.mi.com
+DOMAIN-SUFFIX,ot.io.mi.com
+
+# --- 国内家电品牌 ---
+DOMAIN-SUFFIX,midea.com
+DOMAIN-SUFFIX,midea.com.cn
+DOMAIN-SUFFIX,smartmidea.net
+DOMAIN-SUFFIX,haier.net
+DOMAIN-SUFFIX,haier.com
+DOMAIN-SUFFIX,hisense.com
+DOMAIN-SUFFIX,tcl.com
+DOMAIN-SUFFIX,yeelight.com
+DOMAIN-SUFFIX,aqara.com
+DOMAIN-SUFFIX,tuya.com
+DOMAIN-SUFFIX,tuyaus.com
+
+
 # 暴雪战网国际服下载节点
 DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
 DOMAIN-SUFFIX,level3.blizzard.com
@@ -63,20 +159,20 @@ DOMAIN-SUFFIX,eu.cdn.blizzard.com
 IP-CIDR,137.221.64.0/24,no-resolve
 IP-CIDR,8.251.135.126/32,no-resolve
 IP-CIDR,8.251.246.126/32,no-resolve
+
 # 暴雪战网国服相关
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,leihuo.netease.com
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
+
 # 自用常用直连网站
-DOMAIN-SUFFIX,7me.dpdns.org
 DOMAIN-SUFFIX,flac.life
 DOMAIN-SUFFIX,spfnas.cc
 DOMAIN-SUFFIX,tianapi.com
 DOMAIN-SUFFIX,imzcc.com  
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,myssl.com
-DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,2345.com
 DOMAIN-SUFFIX,im.those.cc
 DOMAIN-SUFFIX,boxmoe.com
@@ -92,7 +188,6 @@ DOMAIN-SUFFIX,9377s.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,4366.com
 DOMAIN-SUFFIX,4366.adpfm513.com
-DOMAIN-SUFFIX,zzbank.cc
 DOMAIN-SUFFIX,hikmall.com
 DOMAIN-SUFFIX,sixyin.com
 DOMAIN-SUFFIX,qiyukf.com
@@ -186,7 +281,6 @@ DOMAIN-SUFFIX,gcores.com
 DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,heweather.net
 DOMAIN-SUFFIX,hostbuf.com
-DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,jidian.im
@@ -199,8 +293,6 @@ DOMAIN-SUFFIX,luojilab.com
 DOMAIN-SUFFIX,mls-cdn.com
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nim-lang-cn.org
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qyerstatic.com
@@ -209,11 +301,6 @@ DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,99.com
 DOMAIN-SUFFIX,qlrc.com
 DOMAIN-SUFFIX,zhaopin.com
-DOMAIN-SUFFIX,zaozhuangbank.com
-DOMAIN-SUFFIX,jn-bank.com
-DOMAIN-SUFFIX,whccb.com
-DOMAIN-SUFFIX,ccb.com
-DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,zcrcw.com
 DOMAIN-SUFFIX,down.365ncg.com
 DOMAIN-SUFFIX,qianfan.app

@@ -169,8 +169,6 @@ IP-CIDR,5.5.5.5/32,no-resolve
 # 自用常用直连网站
 DOMAIN-SUFFIX,linuxdo.org
 DOMAIN-SUFFIX,movie-pilot.org
-DOMAIN-SUFFIX,quickconnect.to
-DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,flac.life
 DOMAIN-SUFFIX,spfnas.cc
 DOMAIN-SUFFIX,tianapi.com

@@ -169,6 +169,8 @@ DOMAIN-KEYWORD,bank
 
 # 自用常用直连网站
   - DOMAIN-SUFFIX,linuxdo.org
+  - DOMAIN-SUFFIX,synocommunity.com
+  - DOMAIN-SUFFIX,4sag.ru
   - DOMAIN-SUFFIX,flac.life
   - DOMAIN-SUFFIX,spfnas.cc
   - DOMAIN-SUFFIX,tianapi.com

@@ -233,6 +233,7 @@ payload:
  # 青蛙 
  - DOMAIN-SUFFIX,new.qingwa.pro
  - DOMAIN-SUFFIX,qingwapt.com
+  - DOMAIN-SUFFIX,qingwapt.org
  - DOMAIN-SUFFIX,wawawa.me
  # 冰淇淋
  - DOMAIN-SUFFIX,icc2022.com
